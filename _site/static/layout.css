@@ -2574,7 +2574,6 @@ body {
     width:100%;
     padding:0px;
     text-align:justify;
-    font-size:16px;
     font-weight:300;
     line-height:1.6em;
     position:absolute;
@@ -2582,4 +2581,22 @@ body {
 
 .boxWrapper:hover .speaker-box-overlay {
     display:block;
+}
+
+@media (min-width: 979px) {
+	.boxWrapper .speaker-box-overlay {
+		font-size:16px;
+	}
+}
+
+@media (min-width: 767px) and (max-width: 979px) {
+	.boxWrapper .speaker-box-overlay {
+		font-size:10px;
+	}
+}
+
+@media (max-width: 767px) {
+	.boxWrapper .speaker-box-overlay {
+		font-size:16px;
+	}
 }
