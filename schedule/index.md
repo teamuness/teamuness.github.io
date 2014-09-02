@@ -73,7 +73,7 @@ layout: default
 
                         <tr>
                             <td>1:30 PM to 2:30 PM</td><td>
-                                Active Talk: Pam Reed “Hot Yoga and Injury Prevention” (Wilson Dance Studio)
+                                Active Talk: Pam Reed "Hot Yoga and Injury Prevention"
                                  <br />
                          Talk: Nate Helming "Importance of Being a Strong Runne" 
                           <br />
