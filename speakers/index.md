@@ -303,7 +303,7 @@ layout: default
           <div><img src="/static/speakers/nicci-schock.jpg" alt=""></div>
           <div class="boxContent2">
             <h3>Nicci Schock</h3>
-            <p>Training &amp; Health Specialist, Massage Therapist</p>
+            <p>Metabolic Efficiency Training Specialist</p>
           </div>
         </article>
       </div>
