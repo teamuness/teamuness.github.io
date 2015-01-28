@@ -29,7 +29,7 @@ layout: default
                 <div class="span12">
                   <center>
                     <h1 class="section-title">Schedule</h1><br /><br />
-                    <h3>(Tentative)</h3>
+                    <h3>(The 2014 Schedule is below. Stay tuned for 2015!)</h3>
                 </center>
 
                 <br />
