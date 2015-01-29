@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="span12">
-        <h1>Speakers</h1>
+        <h1>2014 Speakers</h1>
         <br /><br />
       </div>
       <div class="span3">
