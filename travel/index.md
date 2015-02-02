@@ -33,7 +33,7 @@ layout: default
         </p>
         <p class="dark">
 
-            We are working with hotels close to our venue. If there is a specific hotel that you have loyalty points to, we can accomdate a special rate for you. All the hotels are located a few miles from Princeton University, and we will have shuttles running to and from campus. <a target="_blank"> href="https://docs.google.com/a/teamu.org/forms/d/1-oFF5RMfVxdkINqrFaTIfQAOzDgNxhEb3KQtgGSY3wQ/viewform"Stay in the Loop!</a>
+            We are working with hotels close to our venue. If there is a specific hotel that you have loyalty points to, we can accomdate a special rate for you. All the hotels are located a few miles from Princeton University, and we will have shuttles running to and from campus. <a target="_blank"</a> href="https://docs.google.com/a/teamu.org/forms/d/1-oFF5RMfVxdkINqrFaTIfQAOzDgNxhEb3KQtgGSY3wQ/viewform"Stay in the Loop!</a>
         </p>
            </div>
 
