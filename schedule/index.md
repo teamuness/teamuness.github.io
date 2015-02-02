@@ -28,7 +28,7 @@ layout: default
             <div class="row">
                 <div class="span12">
                   <center>
-                    <h1 class="section-title">Schedule</h1><br /><br />
+                    <h1 class="section-title">2014 Schedule</h1><br /><br />
                     <h2>(2014 Schedule is below. Stay tuned for updates on 2015!)</h2>
                 </center>
 
