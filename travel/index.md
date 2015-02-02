@@ -33,53 +33,36 @@ layout: default
         </p>
         <p class="dark">
 
-            We are working with the Holiday Inn and the Hilton DoubleTree to bring you the best hotel deals in the area! The hotels are located a few miles from Princeton University, and we will have shuttles running to and from campus. 
+            We are working with hotels close to our venue. If there is a specific hotel that you have loyalty points to, we can accomdate a special rate for you. All the hotels are located a few miles from Princeton University, and we will have shuttles running to and from campus. 
         </p>
-            <br /><br />
+           </div>
 
-
-            <table class="padded">
-            <tr>
-                <td>
-                    <img src="/static/holidayinn.jpg" />
-                </td>
-                <td>
-                    <p class="dark">
-                    The newly renovated Holiday Inn will be offering rooms for $99 (plus tax). Don’t wait! <a target="_blank" href="http://ichotelsgroup.com/redirect?path=rates&brandCode=HI&regionCode=1&localeCode=en&GPC=NAT&hotelCode=PRNNJ&_PMID=99801505">Click here to book your room today at the Holiday Inn.</a>
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="/static/doubletree.jpg" />
-                </td>
-                <td>
-                     <p class="dark">
-                    The Hilton Doubletree will be offering rooms for $99 (plus tax), with an additional $10 for breakfast. Don’t wait! <a target="_blank" href="http://doubletree.hilton.com/en/dt/groups/personalized/P/PCTDTDT-NES-20140918/index.jhtml?WT.mc_id=POG">Click here to book your room today at the DoubleTree.</a>
-                    </p>
-                </td>
-            </tr>
-            </table>
-            
-
-            
-
-
-
-
-        </div>
         <div class="span2">
+
             <br />
+
         </div>
+
         </div>
+
+
 
         
 
+
+
         
+
+
 
     </div><!--end span12 -->
+
 </div><!--end row -->
 
+
+
 </div><!--end container -->
+
 </div><!--end about-bkg-->
+
 </section>
