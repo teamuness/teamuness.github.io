@@ -34,9 +34,8 @@ Born Heroes, in which he discovers the tools of the hero.
               movement with an emphasis in running, cycling, and swimming mechanics.
               MacKenzie and his program have been featured in Competitor, Runner's World,
               Triathlete, Men's Journal, ESPN Rise, The Economist, Outside, and Tim
-              Ferriss' bestseller The 4-Hour Body. Brian consults has worked with several
-              Olympians, and has consulted with several athletic teams, including the 2012
-              & 2013 Western Athletic Conference Champions San Jose State Women's Swim
+              Ferriss' bestseller The 4-Hour Body. Brian has worked with several
+              Olympians, and also consults with several athletic teams, including the San Jose State Women's Swim
               Team. He He has co-authored Power Speed Endurance, and New York Times Best
               Seller & Men's Journal Health Book of the Year, UnBreakable Runner. 
           </div>
@@ -105,7 +104,7 @@ self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has
           <div class="speaker-box-overlay">
               Dr. Julie Angel received her Ph.D. from Brunel University’s Screen Media
 Research Centre in 2011 and has spent much of her time since documenting the ‘age of
-athleticism’—parkour, MovNat, buildering, and much more. One of her current projects is
+athleticism.’ One of her current projects is
 See & Do, a global project aiming to promote inclusivity in movement communities by
 normalizing images of women being active through activities such as, parkour, buildering,
 and MovNat. She is currently writing Over the Edge, a book that recounts the history of
@@ -124,7 +123,7 @@ height="438" alt="julie-angel"></a></div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Jeff has been an activist for over 50 years. He has worked on many social
+              Jeff is an activist who has worked on many social
 justice isues including worker rights, land issues, and racial equity. Jeff has been
 connected to Ben & Jerry's since its inception. He is credited with helping to write the
 first business plan and has been involved with management and/or the board of directors
@@ -151,7 +150,7 @@ two-time finish in the Hawaii Ironman, Ultraman World championship, and the Virg
 Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the
 author of "Zendurance." His zendurance approach appeals strongly to a wide range of
 physical and mental health care professionals who seek his guidance to enhance their own
-work. He is returning to the National Endurance Sports Summit for the second time.
+work.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_3c36e45cb5_m.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
@@ -188,8 +187,7 @@ Final Choices. In 2012, he published his book, The Road Back: A Journey of Grace
 about the story of Matthew Miller, a University of Virginia student involved in a tragic
 cycling accident while training for a triathlon. Michael Vitez shares the incredible,
 humbling, miraculous story of Matt’s survival and recovery.  It is a story, truly, of
-grace and grit, of an America that shines – families, community, individuals and
-institutions. 
+grace and grit.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18960191901" title="vitez_mike by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3834/18960191901_57cb7d54d8_m.jpg" width="240" height="240" alt="vitez_mike"></a></div>
           <div class="boxContent2">
@@ -323,7 +321,7 @@ World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (9
 1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
 Dick Collins Fire Trails 50 in Northern California for 11 years, and has taught science at
 the college level. She also coaches middle school cross country and track & field and
-volunteers, paces and crews at ultramarathon races. Ann is a featured columnist at
+volunteers often at ultramarathons. Ann is a featured columnist at
 Ultrarunning Magazine.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793" title="Ann-Trason-150 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/526/18336593793_bd91c64583_m.jpg" width="150" height="150" alt="Ann-Trason-150"></a></div>
@@ -339,7 +337,7 @@ Ultrarunning Magazine.
               Lisa Smith-Batchen is a world reknown elite ultra runner, ironman competitor
 and adventure racer.  Lisa is a woman of many "firsts".  She is the first American to win
 the Marathon des Sables stage-race through the Moroccan desert and has twice won the
-Badwater Ultramarathon, which is considered one of the toughest races in the world.  She
+Badwater Ultramarathon.  She
 is also the first and only person to ever have run 50 miles a day in 50 states in the USA
 in 62 days! Lisa is also a proven coach and motivator whose knowledge of health, fitness
 and nutrition has helped hundreds of individuals achieve their specific goals.
