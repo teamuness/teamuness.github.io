@@ -87,8 +87,8 @@ run across the U.S. from San Francisco to NYC.
           </div>
         </article>
       </div>
-      </div>
-      <div class="row">
+    </div>
+    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -162,15 +162,15 @@ work. He is returning to the National Endurance Sports Summit for the second tim
           <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503"
 title="shane-eversfield by annabroome, on Flickr"><img
 src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200"
-height="300" alt="shane-eversfield"></a></div>
+height="200" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
           </div>
         </article>
       </div>
-      </div>
-      <div class="row">
+    </div>
+    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -242,8 +242,8 @@ the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.
           </div>
         </article>
       </div>
-      </div>
-      <div class="row">
+    </div>
+    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -390,8 +390,8 @@ height="319" alt="Terra Castro NESS"></a></div>
           </div>
         </article>
       </div>
-      </div>
-      <div class="row">
+    </div>
+    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -452,6 +452,6 @@ height="207" alt="NESS background"></a></div>
           </div>
         </article>
       </div>
-      </div>
+    </div>
   </div>
 </section>
