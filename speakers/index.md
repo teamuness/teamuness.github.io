@@ -35,8 +35,7 @@ Born Heroes, in which he discovers the tools of the hero.
               MacKenzie and his program have been featured in Competitor, Runner's World,
               Triathlete, Men's Journal, ESPN Rise, The Economist, Outside, and Tim
               Ferriss' bestseller The 4-Hour Body. Brian has worked with several
-              Olympians, and also consults with several athletic teams, including the San Jose State Women's Swim
-              Team. He He has co-authored Power Speed Endurance, and New York Times Best
+              Olympians, and also co-authored Power Speed Endurance, and New York Times Best
               Seller & Men's Journal Health Book of the Year, UnBreakable Runner. 
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411" title="brian-mackenzie2 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/523/18960195411_1c7b355558_m.jpg" width="240" height="240" alt="brian-mackenzie2"></a></div>
@@ -339,7 +338,7 @@ and adventure racer.  Lisa is a woman of many "firsts".  She is the first Americ
 the Marathon des Sables stage-race through the Moroccan desert and has twice won the
 Badwater Ultramarathon.  She
 is also the first and only person to ever have run 50 miles a day in 50 states in the USA
-in 62 days! Lisa is also a proven coach and motivator whose knowledge of health, fitness
+in 62 days! Lisa is a proven coach and motivator whose knowledge of health, fitness
 and nutrition has helped hundreds of individuals achieve their specific goals.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531" title="lisa-smith-batchen by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/296/18960202531_53bf6fd2ee_m.jpg" width="240" height="240" alt="lisa-smith-batchen"></a></div>
