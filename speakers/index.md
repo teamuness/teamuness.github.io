@@ -88,7 +88,7 @@ layout: default
           <div class="speaker-box-overlay">
               Shane Eversfield is the founder and head of coach of Zendurance Cycling. An ultraendurance athlete, Shane has an extensive history competing in a variety of endurance events, including a two-time finish in the Hawaii Ironman, Ultraman World Championship, and the Virginia Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the author of "Zendurance" and several articles in triathlete magazines.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_03ffb02e13_q.jpg" width="150" height="150" alt="shane-eversfield"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200" height="300" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
