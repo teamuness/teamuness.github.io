@@ -6,25 +6,62 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="span12">
-        <h1>2014 Speakers</h1>
+        <h1>2015 Speakers</h1>
         <br /><br />
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Pam Reed is one of the most dominant ultrarunners in the world, with her athletic feats spanning well over two decades, and counting. Pam has come in first place overall in the world-renowned Badwater 135 mile race through Death Valley in back-to-back years. Pam was the first person to run 300 miles nonstop without sleep. She has also broken the American record for a 24-hour track run. Pam is also an author and race director of the Tucson Marathon.
+              Trained as a foreign correspondent for the Associated Press, Christopher
+McDougall covered wars in Rwanda and Angola before writing his international bestseller,
+Born to Run. His fascination with the limits of human potential led him to create the
+Outside magazine web series, “Art of the Hero.” Born to Run is currently being made into a
+feature film starring Matthew McConaughey. He recently released his latest book, Natural
+Born Heroes, in which he discovers the tools of the hero.
           </div>
-          <div><img src="/static/speakers/pam-reed.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18771048279"
+title="christopher-mcdougall by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="1024"
+height="682" alt="christopher-mcdougall"></a></div>
           <div class="boxContent2">
-            <h3>Pam Reed</h3>
-            <p>Ultrarunner &amp; Record Holder</p>
+            <h3>Christopher McDougall</h3>
+            <p>Author</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Ray Zahab is an ultrarunner and founder of impossible2Possible, where he educates and inspires youth to reach beyond their limits and promote social and environmental action. Ray has taken on some of the most challenging expeditions, including trekking across the Sahara Desert by foot in 111 days while raising awareness for the water crises in Africa. His feat was the subject of the documentary Running the Sahara, produced and narrated by Matt Damon.
+              Brian MacKenzie is a movement specialist and strength and conditioning
+              coach. He is the creator of CrossFit Endurance, which specializes in
+              movement with an emphasis in running, cycling, and swimming mechanics.
+              MacKenzie and his program have been featured in Competitor, Runner's World,
+              Triathlete, Men's Journal, ESPN Rise, The Economist, Outside, and Tim
+              Ferriss' bestseller The 4-Hour Body. Brian consults has worked with several
+              Olympians, and has consulted with several athletic teams, including the 2012
+              & 2013 Western Athletic Conference Champions San Jose State Women's Swim
+              Team. He He has co-authored Power Speed Endurance, and New York Times Best
+              Seller & Men's Journal Health Book of the Year, UnBreakable Runner. 
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411"
+title="brian-mackenzie2 by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/523/18960195411_9749c55a15_o.jpg" width="650"
+height="428" alt="brian-mackenzie2"></a></div>
+          <div class="boxContent2">
+            <h3>Brian MacKenzie</h3>
+            <p>Founder of CrossFit Endurance &amp; Coach</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Ray Zahab is an ultrarunner and founder of impossible2Possible, where he
+educates and inspires youth to reach beyond their limits and promote social and
+environmental action. Ray has taken on some of the most challenging expeditions, including
+trekking across the Sahara Desert by foot in 111 days while raising awareness for the
+water crises in Africa. His feat was the subject of the documentary Running the Sahara,
+produced and narrated by Matt Damon.
           </div>
           <div><img src="/static/speakers/ray-zahab.jpg" alt=""></div>
           <div class="boxContent2">
@@ -36,7 +73,12 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Marshall Ulrich is an author, motivational speaker, and one of the leading ultraendurance athletes in the country. He has completed over 120 ultramarathons (averaging over 125 miles each), finished 12 expedition-length adventure races, and climbed the Seven Summits on his first attempts. He was the first to circumnavigate the 425 mile trek around Death Valley National Park. He has also conquered the over 3,000 mile run across the U.S. from San Francisco to NYC.
+              Marshall Ulrich is an author, motivational speaker, and one of the leading
+ultraendurance athletes in the country. He has completed over 120 ultramarathons
+(averaging over 125 miles each), finished 12 expedition-length adventure races, and
+climbed the Seven Summits on his first attempts. He was the first to circumnavigate the
+425 mile trek around Death Valley National Park. He has also conquered the over 3,000 mile
+run across the U.S. from San Francisco to NYC.
           </div>
           <div><img src="/static/speakers/marshall-ulrich.jpg" alt=""></div>
           <div class="boxContent2">
@@ -48,7 +90,12 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Dr. David Horton is an extreme ultrarunner, race director of over 75 ultras, professor of exercise science at Liberty University, and motivational speaker. Dr. Horton has run across the U.S., won the Hardrock 100 miler in its first two years, set the speed record for the Appalaichian Trail and Pacific Crest Trail, and completed the self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has run over 113,000 miles.
+              Dr. David Horton is an extreme ultrarunner, race director of over 75 ultras,
+professor of exercise science at Liberty University, and motivational speaker. Dr. Horton
+has run across the U.S., won the Hardrock 100 miler in its first two years, set the speed
+record for the Appalaichian Trail and Pacific Crest Trail, and completed the
+self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has run over
+113,000 miles.
           </div>
           <div><img src="/static/speakers/dr.-david-horton.jpg" alt=""></div>
           <div class="boxContent2">
@@ -62,33 +109,60 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Cason Crane is a long time triathlete and mountaineer from Princeton, NJ. He founded the Rainbow Summits Project, an initiative to raise funds and awareness for The Trevor Project, a suicide a crisis prevention service for LGBTQ youth. In climbing the Seven Summits, Cason raised over $130,000 for The Trevor Project. Cason has been featured on CNN and other major news outlets. Cason currently attends Princeton University.
+              Dr. Julie Angel received her Ph.D. from Brunel University’s Screen Media
+Research Centre in 2011 and has spent much of her time since documenting the ‘age of
+athleticism’—parkour, MovNat, buildering, and much more. One of her current projects is
+See & Do, a global project aiming to promote inclusivity in movement communities by
+normalizing images of women being active through activities such as, parkour, buildering,
+and MovNat. She is currently writing Over the Edge, a book that recounts the history of
+parkour through a tale about the desire to move.
           </div>
-          <div><img src="/static/speakers/cason-crane.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769584078"
+title="julie-angel by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/551/18769584078_e107294bd0_o.jpg" width="438"
+height="438" alt="julie-angel"></a></div>
           <div class="boxContent2">
-            <h3>Cason Crane</h3>
-            <p>Endurance Athlete &amp; Rainbow Summits Founder</p>
+            <h3>Dr. Julie Angel</h3>
+            <p>Filmmaker, Author, &amp; Athlete</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Terry Laughlin is the founder of Total Immersion, a revolutionary swim technique and worldwide brand. Terry has been a coach for over 40 years, and has completed many endurance feats, including two 28.5 mile Manhattan Island Swims. He has broken national records in the 1-mile and 2-mile cable swim, and has National Masters Open Water championship titles in four distances. Terry is also a bestselling author, and resides in New Paltz, NY. 
+              Jeff has been an activist for over 50 years. He has worked on many social
+justice isues including worker rights, land issues, and racial equity. Jeff has been
+connected to Ben & Jerry's since its inception. He is credited with helping to write the
+first business plan and has been involved with management and/or the board of directors
+for more than 35 years. He is the board's current chair. Jeff also serves on the board of
+the Oakland Institute and Edge Funders Alliance. His work often entails connecting the
+business world with the activist's world. 
           </div>
-          <div><img src="/static/speakers/terry-laughlin.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18336601713"
+title="jeff-furman by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/325/18336601713_f90293afb3_o.png" width="230"
+height="230" alt="jeff-furman"></a></div>
           <div class="boxContent2">
-            <h3>Terry Laughlin</h3>
-            <p>Ultraendurance Swimmer &amp; Total Immersion Founder</p>
+            <h3>Jeff Furman</h3>
+            <p>Activist &amp; Businessman</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Shane Eversfield is the founder and head of coach of Zendurance Cycling. An ultraendurance athlete, Shane has an extensive history competing in a variety of endurance events, including a two-time finish in the Hawaii Ironman, Ultraman World Championship, and the Virginia Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the author of "Zendurance" and several articles in triathlete magazines.
+              Shane Eversfield is the founder and head of coach of Zendurance Cycling. An
+ultraendurance athlete, Shane competes in a variety of endurance events, including a
+two-time finish in the Hawaii Ironman, Ultraman World championship, and the Virginia
+Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the
+author of "Zendurance." His zendurance approach appeals strongly to a wide range of
+physical and mental health care professionals who seek his guidance to enhance their own
+work. He is returning to the National Endurance Sports Summit for the second time.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200" height="300" alt="shane-eversfield"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503"
+title="shane-eversfield by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200"
+height="300" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
@@ -98,12 +172,20 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Nate Helming is a competitive triathlete, owner of Helming Athletics, speaker, and author of numerous articles. As an endurance coach, he has worked with Olympic-level cyclists, professional triathletes, junior elite mountain bikers, and national-level ultra runners. Based out of San Francisco, Nate also works works at San Francisco Crossfit. Recently, Nate launched The Run Experience, an online running coaching community.
+              Jason Fitzgerald is the head coach at Strength Running, one of the largest
+coaching sites for runners. He is a 2:39 marathoner, USATF-certified coach and his passion
+is helping runners set monster personal bests. Jason's work has appeared in Runner's
+World, Competitor, Business Insider, Lifehacker, and many more. A member of the Greatist
+Expert Network, Jason has spoken at fitness conferences and international organizations on
+the topics of performance improvement and online marketing.
           </div>
-          <div><img src="/static/speakers/nate-helming.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282"
+title="jason-fitzgerald by annabroome, on Flickr"><img
+src="https://c2.staticflickr.com/4/3681/18947612282_2ac84aaa1e_o.jpg" width="3088"
+height="4640" alt="jason-fitzgerald"></a>
           <div class="boxContent2">
-            <h3>Nate Helming</h3>
-            <p>Endurance Coach</p>
+            <h3>Jason Fitzgerald</h3>
+            <p>Coach</p>
           </div>
         </article>
       </div>
@@ -112,31 +194,49 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Carl Paoli is the founder and head coach of Naka Athletics, responsible for launching GymnasticsWOD.com - the largest database online for gymnastics training for Crossfit athletes. Carl grew up in Spain where he competed across the country for over fifteen years, along the way garnering the National Gold Medal for Valt. Since then, he has continued to work with top athletes around the world, including coaching the Crossfit Games female winner Annie Thorisdottir.
+              Michael Vitez is a human interest writer at the Philadelphia Inquirer. He
+won the Pulitzer Prize for Explanatory Journalism in 1997 for a series of stories titled
+Final Choices. In 2012, he published his book, The Road Back: A Journey of Grace and Grit,
+about the story of Matthew Miller, a University of Virginia student involved in a tragic
+cycling accident while training for a triathlon. Michael Vitez shares the incredible,
+humbling, miraculous story of Matt’s survival and recovery.  It is a story, truly, of
+grace and grit, of an America that shines – families, community, individuals and
+institutions. 
           </div>
-          <div><img src="/static/speakers/carl-paoli.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960191901"
+title="vitez_mike by annabroome, on Flickr"><img
+src="https://c2.staticflickr.com/4/3834/18960191901_5316a2ef79_o.jpg" width="300"
+height="356" alt="vitez_mike"></a></div>
           <div class="boxContent2">
-            <h3>Carl Paoli</h3>
-            <p>Gymnastic Coach &amp; Author</p>
+            <h3>Michael Vitez</h3>
+            <p>Author &amp; Journalist</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Matt Fitzgerald is an award winning journalist and bestselling author of over 20 books on endurance sports and nutrition, including Brain Training for Runners and Racing Weight. One of his most recent books, Diet Cult, takes a critical look at many of the current popular diets. Matt is a running and triathlon coach, as well as a certified sports nutritionist, serving as a consultant for a variety of sports nutrition companies.
+              Matt Fitzgerald is an award winning journalist and bestselling author of
+over 20 books on endurance sports and nutrition, including Brain Training for Runners and
+Racing Weight. One of his most recent books, Diet Cult, takes a critical look at many of
+the current popular diets. Matt is a running and triathlon coach, as well as a certified
+sports nutritionist, serving as a consultant for a variety of sports nutrition companies.
           </div>
           <div><img src="/static/speakers/matt-fitzgerald.jpg" alt=""></div>
           <div class="boxContent2">
             <h3>Matt Fitzgerald</h3>
-            <p>Best-selling Author, Nutritionist, &amp; Coach</p>
+            <p>Author, Nutritionist, &amp; Coach</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Dr. Nicholas Romanov is a best-selling author, elite coach, and sports scientist, and was a competitive athlete for over thirty years. Dr. Romanov has garnered worldwide fame for developing the Pose Method, a revolutionary way to run using gravity as a leading force in human movement. He has worked with elite athletes including members of the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
+              Dr. Nicholas Romanov is a best-selling author, elite coach, and sports
+scientist, and was a competitive athlete for over thirty years. Dr. Romanov has garnered
+worldwide fame for developing the Pose Method, a revolutionary way to run using gravity as
+a leading force in human movement. He has worked with elite athletes including members of
+the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
           </div>
           <div><img src="/static/speakers/dr.-nicholas-romanov.jpg" alt=""></div>
           <div class="boxContent2">
@@ -148,12 +248,21 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Toby Storie-Pugh is a mountaineer and founder of Expedition Everest, where he is raising funds and awareness about global sanitation issues while leading the first Kenyan climber to summit Mount Everest. He also founded Flying Kites, a school for orphans in Kenya. Toby has accomplished a wide range of adventure feats, and has recently launched Advencha, a company leading expeditions around the world.
+              Vinnie Tortorich is America’s Angriest Trainer. He has been a personal
+trainer to people from all walks of life for thirty years, from Hollywood celebrities to
+ultra athletes to children struggling with obesity. In 2012, he began the Angriest Trainer
+podcast series with co-host Anna Vocino to help listeners solve their fitness and
+nutrition problems. His memoir, Fitness Confidential was released in 2013 and exposes the
+underbelly of the fitness industry while championing his No Sugar No Grains (NSNG)
+approach to nutrition.  
           </div>
-          <div><img src="/static/speakers/toby-storie-pugh.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18334681764"
+title="Vinny_Twitter by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/377/18334681764_9cc200ce53_o.jpg" width="320"
+height="262" alt="Vinny_Twitter"></a></div>
           <div class="boxContent2">
-            <h3>Toby Storie-Pugh</h3>
-            <p>Mountaineer, Adventurer, &amp; Social Entrepreneur</p>
+            <h3>Vinnie Tortorich</h3>
+            <p>Trainer, Podcast Host, &amp; Author</p>
           </div>
         </article>
       </div>
@@ -162,7 +271,11 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Chris Moore is a writer, coach, and blogger. He’s host of The Barbell Buddha Podcast, and cohost of Barbell Shrugged, a weekly podcast devoted to strength, health, fitness, and all things brash. His experience is drawn from over twenty-years spent training for and competing in American Football, powerlifting, a bit of strongman, and a dash of mixed martial arts.
+              Chris Moore is a writer, coach, and blogger. He’s host of The Barbell Buddha
+Podcast, and cohost of Barbell Shrugged, a weekly podcast devoted to strength, health,
+fitness, and all things brash. His experience is drawn from over twenty-years spent
+training for and competing in American Football, powerlifting, a bit of strongman, and a
+dash of mixed martial arts.
           </div>
           <div><img src="/static/speakers/chris-moore.jpg" alt=""></div>
           <div class="boxContent2">
@@ -174,7 +287,11 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Mike Bledsoe is one of the founders and owners of Faction Strength &amp; Conditioning Home of CrossFit Memphis. He is a cohost of the Barbell Shrugged Podcast and Barbell Business Podcast. He has a degree in Exercise &amp; Sport Science. He has also competed in powerlifing. Mike continues to coach elite athletes and devotes his time to bettering other people.
+              Mike Bledsoe is one of the founders and owners of Faction Strength &amp;
+Conditioning Home of CrossFit Memphis. He is a cohost of the Barbell Shrugged Podcast and
+Barbell Business Podcast. He has a degree in Exercise &amp; Sport Science. He has also
+competed in powerlifing. Mike continues to coach elite athletes and devotes his time to
+bettering other people.
           </div>
           <div><img src="/static/speakers/mike-bledsoe.jpg" alt=""></div>
           <div class="boxContent2">
@@ -186,7 +303,11 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Doug co-owns Faction Strength and Conditioning in Memphis and is a co-host of the Barbell Shrugged Podcast. He also fights for Memphis Judo and Jiu Jits and has an extensive MMA background participating in a number of fights. Doug recieved a masters in Exercise Science, writing his thesis on the science of fish oil. Doug also runs an online workshop for atheletes to better their technique and form for all movements. 
+              Doug co-owns Faction Strength and Conditioning in Memphis and is a co-host
+of the Barbell Shrugged Podcast. He also fights for Memphis Judo and Jiu Jits and has an
+extensive MMA background participating in a number of fights. Doug recieved a masters in
+Exercise Science, writing his thesis on the science of fish oil. Doug also runs an online
+workshop for atheletes to better their technique and form for all movements. 
           </div>
           <div><img src="/static/speakers/doug-larson.jpg" alt=""></div>
           <div class="boxContent2">
@@ -198,7 +319,10 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Kelvin Gary is a coach, blogger, and owner of Body Space Fitness. After majoring in engineering, he recieved an MBA from NYU Stern. Kelvin is a Certified Personal Trainer, Precision Nutrition Coach, Kettlebell Athletics Certified, and Functional Movememnt Specialist. He has also done various cycling races for charity.
+              Kelvin Gary is a coach, blogger, and owner of Body Space Fitness. After
+majoring in engineering, he recieved an MBA from NYU Stern. Kelvin is a Certified Personal
+Trainer, Precision Nutrition Coach, Kettlebell Athletics Certified, and Functional
+Movememnt Specialist. He has also done various cycling races for charity.
           </div>
           <div><img src="/static/speakers/kelvin-gary.jpg" alt=""></div>
           <div class="boxContent2">
@@ -212,98 +336,137 @@ layout: default
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              David Dorfman is a multisport coach, endurance athlete, cancer survivor, and founder of Cancer Athletics. David has since done numerous endurance events, including several Ironmans and ultramarathons. David attended Boston University, followed by NYU Law School, and has been an attorney in Elder Law for over 20 years. David is a USAT certified Level 1 Coach, Certified Cancer Exercise Trainer, and Certified Personal Trainer.
+              Ann Trason is a 14-time women’s champion at the Western States 100. She set
+World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (91 miles
+1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
+Dick Collins Fire Trails 50 in Northern California for 11 years, and has taught science at
+the college level. She also coaches middle school cross country and track & field and
+volunteers, paces and crews at ultramarathon races. Ann is a featured columnist at
+Ultrarunning Magazine.
           </div>
-          <div><img src="/static/speakers/david-dorfman.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793"
+title="Ann-Trason-150 by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/526/18336593793_17a96da5d2_o.jpg" width="150"
+height="209" alt="Ann-Trason-150"></a></div>
           <div class="boxContent2">
-            <h3>David Dorfman</h3>
-            <p>Coach, Cancer Survivor, &amp; Endurance Athlete</p>
+            <h3>Ann Trason</h3>
+            <p>Coach &amp; Ultrarunner</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Gillian Grant is an 11 year survivor of Non-Hodgkins Lymphoma, accomplished endurance athlete, ambassador for Team in Training, and mother of three. Gillian and has completed 10 half marathons and one marathon with Team in Training raising over $75,000. She has also completed the 200km Ride to Conquer Cancer three times raising over $25,000 for the Princess Margaret Cancer Centre in Toronto.
+              Lisa Smith-Batchen is a world reknown elite ultra runner, ironman competitor
+and adventure racer.  Lisa is a woman of many "firsts".  She is the first American to win
+the Marathon des Sables stage-race through the Moroccan desert and has twice won the
+Badwater Ultramarathon, which is considered one of the toughest races in the world.  She
+is also the first and only person to ever have run 50 miles a day in 50 states in the USA
+in 62 days! Lisa is also a proven coach and motivator whose knowledge of health, fitness
+and nutrition has helped hundreds of individuals achieve their specific goals.
           </div>
-          <div><img src="/static/speakers/gillian-grant.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531"
+title="lisa-smith-batchen by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/296/18960202531_1d0c9fd644_o.jpg" width="960"
+height="960" alt="lisa-smith-batchen"></a></div>
           <div class="boxContent2">
-            <h3>Gillian Grant</h3>
-            <p>Endurance Athlete &amp; Cancer Survivor</p>
+            <h3>Lisa Smith-Batchen</h3>
+            <p>Endurance Athlete & Coach</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Diana Bianchini is the Founder &amp; Creative Director of Di Moda Public Relations - a creative strategies firm based out of Beverly Hills. As a PR Specialist and Philanthropy consultant, she has worked with numerous celebrities and high-impact philanthropists. Diana is involved with numerous nonprofits and social enterprises, including serving on the Advisory Board for The Good News Foundation, and as a Board Member of The Arthritis Foundation.
+              Terra Castro is a professional triathlete from Detroit, residing in
+Arlington, Virginia. She turned pro in 2003, and one year later completed her first
+Ironman 70.3 race finishing in 2nd place. In addition to her triathlon. In 2011, she was
+the first American to cross the line in the 2011 Ironman Cozumel.
           </div>
-          <div><img src="/static/speakers/diana-bianchini.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481"
+title="Terra Castro NESS by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/492/18956193481_5b84742056_o.jpg" width="319"
+height="319" alt="Terra Castro NESS"></a></div>
           <div class="boxContent2">
-            <h3>Diana Bianchini</h3>
-            <p>PR Specialist &amp; Philanthropist</p>
+            <h3>Terra Castro</h3>
+            <p>Professional Triathlete</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Matt Moniz is one of the most accomplished young mountaineers, recognized by National Geographic as an Adventurer of the Year in 2010. He completed the record for the ascent of the highest points of all fifty states in the U.S. His charitable efforts include the 14 Fourteeners in 14 Days climb that in 2009 raised $20,000 for the Iain Hess Breathe Easy Fund, bringing awareness to the issue of Primary Pulmonary Arterial Hypertension.
+              More coming soon!
           </div>
-          <div><img src="/static/speakers/matt-moniz.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18931230186"
+title="friends of jaclyn by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/351/18931230186_1e99477c26_o.jpg" width="223"
+height="127" alt="friends of jaclyn"></a></div>
           <div class="boxContent2">
-            <h3>Matt Moniz</h3>
-            <p>Teen Mountaineer &amp; Advocate</p>
+            <h3>Friends of Jaclyn</h3>
+            <p>Nonprofit Foundation</p>
           </div>
         </article>
       </div>
     </div>
-    <div class="row">
+       <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              O’Neill (OJ) Bergeron discovered yoga in 1956, and continued to use yoga to improve his athletic performance in running, wrestling and power lifting. He has been sharing his love of yoga and improving the lives of others for over 20+ years now. He teaches those from a wide-range of backgounds, from elite athletes to seniors. He specializes in Vinyasa Yoga in English, using no props and allowing students to become self-aware at their own rate.
+              More coming soon!
           </div>
-          <div><img src="/static/speakers/oj-bergeron.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
           <div class="boxContent2">
-            <h3>OJ Bergeron</h3>
-            <p>Yoga Instructor</p>
+            <h3>To Be Announced</h3>
+            <p>TBA</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Jerry Yoo is a physical therapist and triathlete, with a Doctor of Physical Therapy and Masters from UMDNJ and Columbia University. He is the owner of Maven Physical Therapy and is a leader in the field of dry point trigger needling. He is also the founder of Maven Action, a community-based fitness program changing lives in the community. Jerry serves as an adjunct professor for the doctoral program in physical therapy at UMDNJ as well.
+              More coming soon!
           </div>
-          <div><img src="/static/speakers/jerry-yoo.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
           <div class="boxContent2">
-            <h3>Jerry Yoo</h3>
-            <p>Physical Therapist</p>
+            <h3>To Be Announced</h3>
+            <p>TBA</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Dr. Greg Combs is director of Sport Management at Methodist University and serves as a consultant for elite military personnel, coaches, cyclists, and triathletes. He caught the triathlon bug while serving in the U.S. Army Rangers in 1984, part of over 30 years of competing in endurance events. At the same time, he worked extensively with athletes with physical challenges and mentored visually impaired athletes for the 1996 Summer Paralympics.
+              More coming soon!
           </div>
-          <div><img src="/static/speakers/greg-combs.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
           <div class="boxContent2">
-            <h3>Dr. Greg Combs</h3>
-            <p>Elite Coach, Consultant, &amp; U.S. Army Ranger</p>
+            <h3>To Be Announced</h3>
+            <p>TBA</p>
           </div>
         </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Nicci Schock is Metabolic Efficiency Training Specialist, Holistic Health Coach, Licensed Massage Therapist, and owner of ELEVATE by Nicci.  She's been a competitive athlete her entire life, most recently focusing on endurance triathlons and marathons.  Nicci helps athletes of all levels understand metabolic efficiency and implement the strategies, so that they can lose weight, change body composition, recover faster, and perform to their potential.
+              More coming soon!
           </div>
-          <div><img src="/static/speakers/nicci-schock.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
           <div class="boxContent2">
-            <h3>Nicci Schock</h3>
-            <p>Metabolic Efficiency Training Specialist</p>
+            <h3>To Be Announced</h3>
+            <p>TBA</p>
           </div>
         </article>
       </div>
