@@ -159,10 +159,7 @@ author of "Zendurance." His zendurance approach appeals strongly to a wide range
 physical and mental health care professionals who seek his guidance to enhance their own
 work. He is returning to the National Endurance Sports Summit for the second time.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503"
-title="shane-eversfield by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200"
-height="300" alt="shane-eversfield"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_7c417b9885_o.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
