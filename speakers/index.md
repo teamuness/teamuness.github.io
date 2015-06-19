@@ -153,7 +153,7 @@ work.
           <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_3c36e45cb5_m.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
-            <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
+            <p>Founder of Zendurance &amp; Endurance Athlete</p>
           </div>
         </article>
       </div>
