@@ -223,7 +223,7 @@ worldwide fame for developing the Pose Method, a revolutionary way to run using 
 a leading force in human movement. He has worked with elite athletes including members of
 the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
           </div>
-          <div><img src="/static/speakers/dr.-nicholas-romanov.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18927028996" title="Dr. Nicholas Romanov - NESS Pic (FB) by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/508/18927028996_44c42dca06_m.jpg" width="240" height="240" alt="Dr. Nicholas Romanov - NESS Pic (FB)"></a></div>
           <div class="boxContent2">
             <h3>Dr. Nicholas Romanov</h3>
             <p>Founder of the Pose Method, &amp; Elite Coach</p>
@@ -259,7 +259,7 @@ fitness, and all things brash. His experience is drawn from over twenty-years sp
 training for and competing in American Football, powerlifting, a bit of strongman, and a
 dash of mixed martial arts.
           </div>
-          <div><img src="/static/speakers/chris-moore.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18956206291" title="Chris Moore NESS Pic by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/269/18956206291_6ea11e9eac_m.jpg" width="240" height="240" alt="Chris Moore NESS Pic"></a></div>
           <div class="boxContent2">
             <h3>Chris Moore</h3>
             <p>Coach, Author, &amp; Cohost of Barbell Shrugged</p>
@@ -275,7 +275,7 @@ Barbell Business Podcast. He has a degree in Exercise &amp; Sport Science. He ha
 competed in powerlifing. Mike continues to coach elite athletes and devotes his time to
 bettering other people.
           </div>
-          <div><img src="/static/speakers/mike-bledsoe.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18338997043" title="Mike Bledsoe NESS Pic by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/379/18338997043_2f11997964_m.jpg" width="234" height="233" alt="Mike Bledsoe NESS Pic"></a></div>
           <div class="boxContent2">
             <h3>Mike Bledsoe</h3>
             <p>Powerlifter, Coach, &amp; Cohost of Barbell Shrugged</p>
@@ -291,7 +291,7 @@ extensive MMA background participating in a number of fights. Doug recieved a ma
 Exercise Science, writing his thesis on the science of fish oil. Doug also runs an online
 workshop for atheletes to better their technique and form for all movements. 
           </div>
-          <div><img src="/static/speakers/doug-larson.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18947923422" title="Doug Larson NESS Pic by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/294/18947923422_3861f1d58f_m.jpg" width="240" height="240" alt="Doug Larson NESS Pic"></a></div>
           <div class="boxContent2">
             <h3>Doug Larson</h3>
             <p>MMA Pro, Coach, &amp; Cohost of Barbell Shrugged</p>
