@@ -21,8 +21,8 @@ Born Heroes, in which he discovers the tools of the hero.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18771048279"
 title="christopher-mcdougall by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="210"
-height="210" alt="christopher-mcdougall"></a></div>
+src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="1024"
+height="682" alt="christopher-mcdougall"></a></div>
           <div class="boxContent2">
             <h3>Christopher McDougall</h3>
             <p>Author</p>
@@ -87,6 +87,7 @@ run across the U.S. from San Francisco to NYC.
           </div>
         </article>
       </div>
+      <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -104,8 +105,6 @@ self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has
           </div>
         </article>
       </div>
-    </div>
-    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -159,13 +158,18 @@ author of "Zendurance." His zendurance approach appeals strongly to a wide range
 physical and mental health care professionals who seek his guidance to enhance their own
 work. He is returning to the National Endurance Sports Summit for the second time.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_7c417b9885_o.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503"
+title="shane-eversfield by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200"
+height="300" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
           </div>
         </article>
       </div>
+      </div>
+      <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -186,8 +190,6 @@ height="4640" alt="jason-fitzgerald"></a>
           </div>
         </article>
       </div>
-    </div>
-    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -242,6 +244,8 @@ the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.
           </div>
         </article>
       </div>
+      </div>
+      <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -263,8 +267,6 @@ height="262" alt="Vinny_Twitter"></a></div>
           </div>
         </article>
       </div>
-    </div>
-    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -313,6 +315,8 @@ workshop for atheletes to better their technique and form for all movements.
           </div>
         </article>
       </div>
+      </div>
+      <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -328,8 +332,6 @@ Movememnt Specialist. He has also done various cycling races for charity.
           </div>
         </article>
       </div>
-    </div>
-    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -390,6 +392,8 @@ height="319" alt="Terra Castro NESS"></a></div>
           </div>
         </article>
       </div>
+      </div>
+      <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -405,8 +409,6 @@ height="127" alt="friends of jaclyn"></a></div>
           </div>
         </article>
       </div>
-    </div>
-       <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -452,21 +454,6 @@ height="207" alt="NESS background"></a></div>
           </div>
         </article>
       </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              More coming soon!
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
-          <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>TBA</p>
-          </div>
-        </article>
       </div>
-    </div>
   </div>
 </section>
