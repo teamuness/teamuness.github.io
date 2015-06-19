@@ -30,7 +30,7 @@ Born Heroes, in which he discovers the tools of the hero.
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
               Brian MacKenzie is a movement specialist and strength and conditioning
-              coach. He is the creator of CrossFit Endurance, which specializes in
+              coach. He created CrossFit Endurance, which specializes in
               movement with an emphasis in running, cycling, and swimming mechanics.
               MacKenzie and his program have been featured in Competitor, Runner's World,
               Triathlete, Men's Journal, ESPN Rise, The Economist, and Outside. Brian has worked with 
@@ -41,59 +41,6 @@ Born Heroes, in which he discovers the tools of the hero.
           <div class="boxContent2">
             <h3>Brian MacKenzie</h3>
             <p>Founder of CrossFit Endurance &amp; Coach</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Ray Zahab is an ultrarunner and founder of impossible2Possible, where he
-educates and inspires youth to reach beyond their limits and promote social and
-environmental action. Ray has taken on some of the most challenging expeditions, including
-trekking across the Sahara Desert by foot in 111 days while raising awareness for the
-water crises in Africa. His feat was the subject of the documentary Running the Sahara,
-produced and narrated by Matt Damon.
-          </div>
-          <div><img src="/static/speakers/ray-zahab.jpg" alt=""></div>
-          <div class="boxContent2">
-            <h3>Ray Zahab</h3>
-            <p>Ultrarunner &amp; Mountaineer</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Marshall Ulrich is an author, motivational speaker, and one of the leading
-ultraendurance athletes in the country. He has completed over 120 ultramarathons
-(averaging over 125 miles each), finished 12 expedition-length adventure races, and
-climbed the Seven Summits on his first attempts. He was the first to circumnavigate the
-425 mile trek around Death Valley National Park. He has also conquered the over 3,000 mile
-run across the U.S. from San Francisco to NYC.
-          </div>
-          <div><img src="/static/speakers/marshall-ulrich.jpg" alt=""></div>
-          <div class="boxContent2">
-            <h3>Marshall Ulrich</h3>
-            <p>Ultrarunner &amp; Mountaineer</p>
-          </div>
-        </article>
-      </div>
-    </div>
-    <div class="row">
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Dr. David Horton is an extreme ultrarunner, race director of over 75 ultras,
-professor of exercise science at Liberty University, and motivational speaker. Dr. Horton
-has run across the U.S., won the Hardrock 100 miler in its first two years, set the speed
-record for the Appalaichian Trail and Pacific Crest Trail, and completed the
-self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has run over
-113,000 miles.
-          </div>
-          <div><img src="/static/speakers/dr.-david-horton.jpg" alt=""></div>
-          <div class="boxContent2">
-            <h3>Dr. David Horton</h3>
-            <p>Ultrarunner, Race Director, &amp; Professor</p>
           </div>
         </article>
       </div>
@@ -121,39 +68,17 @@ height="438" alt="julie-angel"></a></div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Jeff is an activist who has worked on many social
-justice isues including worker rights, land issues, and racial equity. Jeff has been
-connected to Ben & Jerry's since its inception. He is credited with helping to write the
-first business plan and has been involved with management and/or the board of directors
-for more than 35 years. He is the board's current chair. Jeff also serves on the board of
-the Oakland Institute and Edge Funders Alliance. His work often entails connecting the
-business world with the activist's world. 
+              Ray Zahab is an ultrarunner and founder of impossible2Possible, where he
+educates and inspires youth to reach beyond their limits and promote social and
+environmental action. Ray has taken on some of the most challenging expeditions, including
+trekking across the Sahara Desert by foot in 111 days while raising awareness for the
+water crises in Africa. His feat was the subject of the documentary Running the Sahara,
+produced and narrated by Matt Damon.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18336601713"
-title="jeff-furman by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/325/18336601713_f90293afb3_o.png" width="230"
-height="230" alt="jeff-furman"></a></div>
+          <div><img src="/static/speakers/ray-zahab.jpg" alt=""></div>
           <div class="boxContent2">
-            <h3>Jeff Furman</h3>
-            <p>Activist &amp; Businessman</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Shane Eversfield is the founder and head of coach of Zendurance Cycling. An
-ultraendurance athlete, Shane competes in a variety of endurance events, including a
-two-time finish in the Hawaii Ironman, Ultraman World championship, and the Virginia
-Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the
-author of "Zendurance." His zendurance approach appeals strongly to a wide range of
-physical and mental health care professionals who seek his guidance to enhance their own
-work.
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_3c36e45cb5_m.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
-          <div class="boxContent2">
-            <h3>Shane Eversfield</h3>
-            <p>Founder of Zendurance &amp; Endurance Athlete</p>
+            <h3>Ray Zahab</h3>
+            <p>Ultrarunner &amp; Mountaineer</p>
           </div>
         </article>
       </div>
@@ -162,17 +87,50 @@ work.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Jason Fitzgerald is the head coach at Strength Running, one of the largest
-coaching sites for runners. He is a 2:39 marathoner, USATF-certified coach and his passion
-is helping runners set monster personal bests. Jason's work has appeared in Runner's
-World, Competitor, Business Insider, Lifehacker, and many more. A member of the Greatist
-Expert Network, Jason has spoken at fitness conferences and international organizations on
-the topics of performance improvement and online marketing.
+              Dr. David Horton is an extreme ultrarunner, race director of over 75 ultras,
+professor of exercise science at Liberty University, and motivational speaker. Dr. Horton
+has run across the U.S., won the Hardrock 100 miler in its first two years, set the speed
+record for the Appalaichian Trail and Pacific Crest Trail, and completed the
+self-supported 2700+ mile Tour Divide mountain bike race. To date Dr. Horton has run over
+113,000 miles.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282" title="jason-fitzgerald by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3681/18947612282_f1190e0f0f_m.jpg" width="240" height="240" alt="jason-fitzgerald"></a></div>
+          <div><img src="/static/speakers/dr.-david-horton.jpg" alt=""></div>
           <div class="boxContent2">
-            <h3>Jason Fitzgerald</h3>
-            <p>Coach</p>
+            <h3>Dr. David Horton</h3>
+            <p>Ultrarunner, Race Director, &amp; Professor</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Lisa Smith-Batchen is a world reknown elite ultra runner, ironman competitor
+and adventure racer.  Lisa is a woman of many "firsts".  She is the first American to win
+the Marathon des Sables stage-race through the Moroccan desert and has twice won the
+Badwater Ultramarathon.  She is also the first and only person to ever have run 50 miles a day in 50 states in the USA
+in 62 days! A proven coach and motivator, Lisa has helped hundreds of individuals achieve their specific goals.
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531" title="lisa-smith-batchen by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/296/18960202531_53bf6fd2ee_m.jpg" width="240" height="240" alt="lisa-smith-batchen"></a></div>
+          <div class="boxContent2">
+            <h3>Lisa Smith-Batchen</h3>
+            <p>Endurance Athlete & Coach</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Marshall Ulrich is an author, motivational speaker, and one of the leading
+ultraendurance athletes in the country. He has completed over 120 ultramarathons
+(averaging over 125 miles each), finished 12 expedition-length adventure races, and
+climbed the Seven Summits on his first attempts. He was the first to circumnavigate the
+425 mile trek around Death Valley National Park. He has also conquered the over 3,000 mile
+run across the U.S. from San Francisco to NYC.
+          </div>
+          <div><img src="/static/speakers/marshall-ulrich.jpg" alt=""></div>
+          <div class="boxContent2">
+            <h3>Marshall Ulrich</h3>
+            <p>Ultrarunner &amp; Mountaineer</p>
           </div>
         </article>
       </div>
@@ -193,6 +151,60 @@ grace and grit.
             <p>Author &amp; Journalist</p>
           </div>
         </article>
+      </div>      
+    </div>
+    <div class="row">
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Shane Eversfield is the founder and head of coach of Zendurance Cycling. An
+ultraendurance athlete, Shane competes in a variety of endurance events, including a
+two-time finish in the Hawaii Ironman, Ultraman World championship, and the Virginia
+Triple Iron. Shane is a Total Immersion Master Coach and Triathlon Specialist, and is the
+author of "Zendurance." His zendurance approach appeals strongly to a wide range of
+physical and mental health care professionals who seek his guidance to enhance their own
+work.
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_3c36e45cb5_m.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
+          <div class="boxContent2">
+            <h3>Shane Eversfield</h3>
+            <p>Founder of Zendurance &amp; Endurance Athlete</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Dr. Nicholas Romanov is a best-selling author, elite coach, and sports
+scientist, and was a competitive athlete for over thirty years. Dr. Romanov has garnered
+worldwide fame for developing the Pose Method, a revolutionary way to run using gravity as
+a leading force in human movement. He has worked with elite athletes including members of
+the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18927028996" title="Dr. Nicholas Romanov - NESS Pic (FB) by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/508/18927028996_44c42dca06_m.jpg" width="240" height="240" alt="Dr. Nicholas Romanov - NESS Pic (FB)"></a></div>
+          <div class="boxContent2">
+            <h3>Dr. Nicholas Romanov</h3>
+            <p>Founder of the Pose Method &amp; Coach</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Ann Trason is a 14-time women’s champion at the Western States 100. She set
+World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (91 miles
+1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
+Dick Collins Fire Trails 50 in Northern California for 11 years, and has taught science at
+the college level. She also coaches middle school cross country and track & field and
+volunteers often at ultramarathons. Ann is a featured columnist at
+Ultrarunning Magazine.
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793" title="Ann-Trason-150 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/526/18336593793_bd91c64583_m.jpg" width="150" height="150" alt="Ann-Trason-150"></a></div>
+          <div class="boxContent2">
+            <h3>Ann Trason</h3>
+            <p>Coach &amp; Ultrarunner</p>
+          </div>
+        </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
@@ -209,25 +221,41 @@ sports nutritionist, serving as a consultant for a variety of sports nutrition c
             <p>Author, Nutritionist, &amp; Coach</p>
           </div>
         </article>
+      </div>  
+    </div>
+    <div class="row">
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Terra Castro is a professional triathlete from Detroit, residing in
+Arlington, Virginia. She turned pro in 2003, and one year later completed her first
+Ironman 70.3 race finishing in 2nd place. In addition to her triathlon. In 2011, she was
+the first American to cross the line in the 2011 Ironman Cozumel.
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481" title="Terra Castro NESS by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/492/18956193481_c1c9e9dc6e_m.jpg" width="240" height="240" alt="Terra Castro NESS"></a></div>
+          <div class="boxContent2">
+            <h3>Terra Castro</h3>
+            <p>Professional Triathlete</p>
+          </div>
+        </article>
       </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Dr. Nicholas Romanov is a best-selling author, elite coach, and sports
-scientist, and was a competitive athlete for over thirty years. Dr. Romanov has garnered
-worldwide fame for developing the Pose Method, a revolutionary way to run using gravity as
-a leading force in human movement. He has worked with elite athletes including members of
-the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
+              Jason Fitzgerald is the head coach at Strength Running, one of the largest
+coaching sites for runners. He is a 2:39 marathoner, USATF-certified coach and his passion
+is helping runners set monster personal bests. Jason's work has appeared in Runner's
+World, Competitor, Business Insider, Lifehacker, and many more. A member of the Greatist
+Expert Network, Jason has spoken at fitness conferences and international organizations on
+the topics of performance improvement and online marketing.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18927028996" title="Dr. Nicholas Romanov - NESS Pic (FB) by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/508/18927028996_44c42dca06_m.jpg" width="240" height="240" alt="Dr. Nicholas Romanov - NESS Pic (FB)"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282" title="jason-fitzgerald by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3681/18947612282_f1190e0f0f_m.jpg" width="240" height="240" alt="jason-fitzgerald"></a></div>
           <div class="boxContent2">
-            <h3>Dr. Nicholas Romanov</h3>
-            <p>Founder of the Pose Method, &amp; Elite Coach</p>
+            <h3>Jason Fitzgerald</h3>
+            <p>Coach &amp; Endurance Athlete</p>
           </div>
         </article>
       </div>
-    </div>
-    <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
@@ -243,6 +271,47 @@ approach to nutrition.
           <div class="boxContent2">
             <h3>Vinnie Tortorich</h3>
             <p>Trainer, Podcast Host, &amp; Author</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Jeff is an activist who has worked on many social
+justice isues including worker rights, land issues, and racial equity. Jeff has been
+connected to Ben & Jerry's since its inception. He is credited with helping to write the
+first business plan and has been involved with management and/or the board of directors
+for more than 35 years. He is the board's current chair. Jeff also serves on the board of
+the Oakland Institute and Edge Funders Alliance. His work often entails connecting the
+business world with the activist's world. 
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18336601713"
+title="jeff-furman by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/325/18336601713_f90293afb3_o.png" width="230"
+height="230" alt="jeff-furman"></a></div>
+          <div class="boxContent2">
+            <h3>Jeff Furman</h3>
+            <p>Activist &amp; Businessman</p>
+          </div>
+        </article>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+             Andy has been working as a Certified Athletic Trainer since graduating from
+the University at Buffalo in 2009. Upon graduating he received a Master Degree in Athletic
+Training and Bachelor Degree in Exercise Science. He has worked in all levels of
+athletics, from high school to professional settings. Andy’s passion in athletic
+performance comes from his love for endurance sports along with playing soccer and
+ultimate frisbee. His goal is to help all people whether injured, healthy, athlete or
+weekend warrior to pursue their goals to the best of their abilities.
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18934291046" title="andy wegman by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/323/18934291046_9a67b87787_m.jpg" width="101" height="107" alt="andy wegman"></a></div>
+          <div class="boxContent2">
+            <h3>Andy Wegman</h3>
+            <p>Certified Athletic Trainer & Coach at Body Space Fitness</p>
           </div>
         </article>
       </div>
@@ -291,69 +360,6 @@ workshop for atheletes to better their technique and form for all movements.
           <div class="boxContent2">
             <h3>Doug Larson</h3>
             <p>MMA Pro, Coach, &amp; Cohost of Barbell Shrugged</p>
-          </div>
-        </article>
-      </div>
-      </div>
-      <div class="row">
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-             Andy has been working as a Certified Athletic Trainer since graduating from the University at Buffalo in 2009. Upon graduating he received a Master Degree in Athletic Training and Bachelor Degree in Exercise Science. He has worked in all levels of athletics, from high school to professional settings. Andy’s passion in athletic performance comes from his love for endurance sports along with playing soccer and ultimate frisbee. His goal is to help all people whether injured, healthy, athlete or weekend warrior to pursue their goals to the best of their abilities.
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18934291046" title="andy wegman by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/323/18934291046_9a67b87787_m.jpg" width="101" height="107" alt="andy wegman"></a></div>
-          <div class="boxContent2">
-            <h3>Andy Wegman</h3>
-            <p>Certified Athletic Trainer & Coach at Body Space Fitness</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Ann Trason is a 14-time women’s champion at the Western States 100. She set
-World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (91 miles
-1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
-Dick Collins Fire Trails 50 in Northern California for 11 years, and has taught science at
-the college level. She also coaches middle school cross country and track & field and
-volunteers often at ultramarathons. Ann is a featured columnist at
-Ultrarunning Magazine.
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793" title="Ann-Trason-150 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/526/18336593793_bd91c64583_m.jpg" width="150" height="150" alt="Ann-Trason-150"></a></div>
-          <div class="boxContent2">
-            <h3>Ann Trason</h3>
-            <p>Coach &amp; Ultrarunner</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Lisa Smith-Batchen is a world reknown elite ultra runner, ironman competitor
-and adventure racer.  Lisa is a woman of many "firsts".  She is the first American to win
-the Marathon des Sables stage-race through the Moroccan desert and has twice won the
-Badwater Ultramarathon.  She is also the first and only person to ever have run 50 miles a day in 50 states in the USA
-in 62 days! A proven coach and motivator, Lisa has helped hundreds of individuals achieve their specific goals.
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531" title="lisa-smith-batchen by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/296/18960202531_53bf6fd2ee_m.jpg" width="240" height="240" alt="lisa-smith-batchen"></a></div>
-          <div class="boxContent2">
-            <h3>Lisa Smith-Batchen</h3>
-            <p>Endurance Athlete & Coach</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Terra Castro is a professional triathlete from Detroit, residing in
-Arlington, Virginia. She turned pro in 2003, and one year later completed her first
-Ironman 70.3 race finishing in 2nd place. In addition to her triathlon. In 2011, she was
-the first American to cross the line in the 2011 Ironman Cozumel.
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481" title="Terra Castro NESS by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/492/18956193481_c1c9e9dc6e_m.jpg" width="240" height="240" alt="Terra Castro NESS"></a></div>
-          <div class="boxContent2">
-            <h3>Terra Castro</h3>
-            <p>Professional Triathlete</p>
           </div>
         </article>
       </div>
