@@ -368,7 +368,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-            Coming soon!
+            The Friends of Jaclyn Foundation’s mission is to improve the quality of life 
+            for children battling pediatric brain tumors and other childhood cancers and 
+            to raise awareness through their Adopt-A-Child, Safe on the Sidelines and 
+            Guardian Angel Programs. We do this by pairing the afflicted child and their 
+            siblings with local high school and college sports teams, campus clubs, and 
+            arts programs. 
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18931230186"
 title="friends of jaclyn by annabroome, on Flickr"><img
