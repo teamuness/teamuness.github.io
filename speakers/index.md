@@ -299,15 +299,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Kelvin Gary is a coach, blogger, and owner of Body Space Fitness. After
-majoring in engineering, he recieved an MBA from NYU Stern. Kelvin is a Certified Personal
-Trainer, Precision Nutrition Coach, Kettlebell Athletics Certified, and Functional
-Movememnt Specialist. He has also done various cycling races for charity.
+             Andy has been working as a Certified Athletic Trainer since graduating from the University at Buffalo in 2009. Upon graduating he received a Master Degree in Athletic Training and Bachelor Degree in Exercise Science. He has worked in all levels of athletics, from high school to professional settings. Andy’s passion in athletic performance comes from his love for endurance sports along with playing soccer and ultimate frisbee. His goal is to help all people whether injured, healthy, athlete or weekend warrior to pursue their goals to the best of their abilities.
           </div>
-          <div><img src="/static/speakers/kelvin-gary.jpg" alt=""></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18934291046" title="andy wegman by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/323/18934291046_9a67b87787_m.jpg" width="101" height="107" alt="andy wegman"></a></div>
           <div class="boxContent2">
-            <h3>Kelvin Gary</h3>
-            <p>CPT, Coach, &amp; Owner of Body Space Fitness</p>
+            <h3>Andy Wegman</h3>
+            <p>Certified Athletic Trainer & Coach at Body Space Fitness</p>
           </div>
         </article>
       </div>
