@@ -181,10 +181,7 @@ World, Competitor, Business Insider, Lifehacker, and many more. A member of the 
 Expert Network, Jason has spoken at fitness conferences and international organizations on
 the topics of performance improvement and online marketing.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282"
-title="jason-fitzgerald by annabroome, on Flickr"><img
-src="https://c2.staticflickr.com/4/3681/18947612282_2ac84aaa1e_o.jpg" width="3088"
-height="4640" alt="jason-fitzgerald"></a>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282" title="jason-fitzgerald by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3681/18947612282_f1190e0f0f_s.jpg" width="75" height="75" alt="jason-fitzgerald"></a></div>
           <div class="boxContent2">
             <h3>Jason Fitzgerald</h3>
             <p>Coach</p>
