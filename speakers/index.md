@@ -19,10 +19,7 @@ Outside magazine web series, “Art of the Hero.” Born to Run is currently bei
 feature film starring Matthew McConaughey. He recently released his latest book, Natural
 Born Heroes, in which he discovers the tools of the hero.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18771048279"
-title="christopher-mcdougall by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="1024"
-height="682" alt="christopher-mcdougall"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18771048279" title="christopher-mcdougall by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/265/18771048279_b2c7e5156b_m.jpg" width="240" height="240" alt="christopher-mcdougall"></a></div>
           <div class="boxContent2">
             <h3>Christopher McDougall</h3>
             <p>Author</p>
@@ -43,10 +40,7 @@ height="682" alt="christopher-mcdougall"></a></div>
               Team. He He has co-authored Power Speed Endurance, and New York Times Best
               Seller & Men's Journal Health Book of the Year, UnBreakable Runner. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411"
-title="brian-mackenzie2 by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/523/18960195411_9749c55a15_o.jpg" width="650"
-height="428" alt="brian-mackenzie2"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411" title="brian-mackenzie2 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/523/18960195411_1c7b355558_m.jpg" width="240" height="240" alt="brian-mackenzie2"></a></div>
           <div class="boxContent2">
             <h3>Brian MacKenzie</h3>
             <p>Founder of CrossFit Endurance &amp; Coach</p>
@@ -159,10 +153,7 @@ author of "Zendurance." His zendurance approach appeals strongly to a wide range
 physical and mental health care professionals who seek his guidance to enhance their own
 work. He is returning to the National Endurance Sports Summit for the second time.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503"
-title="shane-eversfield by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/560/18332315503_2c971d2808_o.jpg" width="200"
-height="200" alt="shane-eversfield"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18332315503" title="shane-eversfield by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/560/18332315503_3c36e45cb5_m.jpg" width="200" height="200" alt="shane-eversfield"></a></div>
           <div class="boxContent2">
             <h3>Shane Eversfield</h3>
             <p>Founder of Zendurance &amp; Ultraendurance Athlete</p>
@@ -181,7 +172,7 @@ World, Competitor, Business Insider, Lifehacker, and many more. A member of the 
 Expert Network, Jason has spoken at fitness conferences and international organizations on
 the topics of performance improvement and online marketing.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282" title="jason-fitzgerald by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3681/18947612282_f1190e0f0f_s.jpg" width="75" height="75" alt="jason-fitzgerald"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18947612282" title="jason-fitzgerald by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3681/18947612282_f1190e0f0f_m.jpg" width="240" height="240" alt="jason-fitzgerald"></a></div>
           <div class="boxContent2">
             <h3>Jason Fitzgerald</h3>
             <p>Coach</p>
@@ -200,10 +191,7 @@ humbling, miraculous story of Matt’s survival and recovery.  It is a story, tr
 grace and grit, of an America that shines – families, community, individuals and
 institutions. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18960191901"
-title="vitez_mike by annabroome, on Flickr"><img
-src="https://c2.staticflickr.com/4/3834/18960191901_5316a2ef79_o.jpg" width="300"
-height="356" alt="vitez_mike"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960191901" title="vitez_mike by annabroome, on Flickr"><img src="https://c2.staticflickr.com/4/3834/18960191901_57cb7d54d8_m.jpg" width="240" height="240" alt="vitez_mike"></a></div>
           <div class="boxContent2">
             <h3>Michael Vitez</h3>
             <p>Author &amp; Journalist</p>
@@ -255,10 +243,7 @@ nutrition problems. His memoir, Fitness Confidential was released in 2013 and ex
 underbelly of the fitness industry while championing his No Sugar No Grains (NSNG)
 approach to nutrition.  
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18334681764"
-title="Vinny_Twitter by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/377/18334681764_9cc200ce53_o.jpg" width="320"
-height="262" alt="Vinny_Twitter"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18334681764" title="Vinny_Twitter by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/377/18334681764_077388962a_m.jpg" width="240" height="240" alt="Vinny_Twitter"></a></div>
           <div class="boxContent2">
             <h3>Vinnie Tortorich</h3>
             <p>Trainer, Podcast Host, &amp; Author</p>
@@ -341,10 +326,7 @@ the college level. She also coaches middle school cross country and track & fiel
 volunteers, paces and crews at ultramarathon races. Ann is a featured columnist at
 Ultrarunning Magazine.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793"
-title="Ann-Trason-150 by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/526/18336593793_17a96da5d2_o.jpg" width="150"
-height="209" alt="Ann-Trason-150"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18336593793" title="Ann-Trason-150 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/526/18336593793_bd91c64583_m.jpg" width="150" height="150" alt="Ann-Trason-150"></a></div>
           <div class="boxContent2">
             <h3>Ann Trason</h3>
             <p>Coach &amp; Ultrarunner</p>
@@ -362,10 +344,7 @@ is also the first and only person to ever have run 50 miles a day in 50 states i
 in 62 days! Lisa is also a proven coach and motivator whose knowledge of health, fitness
 and nutrition has helped hundreds of individuals achieve their specific goals.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531"
-title="lisa-smith-batchen by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/296/18960202531_1d0c9fd644_o.jpg" width="960"
-height="960" alt="lisa-smith-batchen"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531" title="lisa-smith-batchen by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/296/18960202531_53bf6fd2ee_m.jpg" width="240" height="240" alt="lisa-smith-batchen"></a></div>
           <div class="boxContent2">
             <h3>Lisa Smith-Batchen</h3>
             <p>Endurance Athlete & Coach</p>
@@ -380,10 +359,7 @@ Arlington, Virginia. She turned pro in 2003, and one year later completed her fi
 Ironman 70.3 race finishing in 2nd place. In addition to her triathlon. In 2011, she was
 the first American to cross the line in the 2011 Ironman Cozumel.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481"
-title="Terra Castro NESS by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/492/18956193481_5b84742056_o.jpg" width="319"
-height="319" alt="Terra Castro NESS"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481" title="Terra Castro NESS by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/492/18956193481_c1c9e9dc6e_m.jpg" width="240" height="240" alt="Terra Castro NESS"></a></div>
           <div class="boxContent2">
             <h3>Terra Castro</h3>
             <p>Professional Triathlete</p>
