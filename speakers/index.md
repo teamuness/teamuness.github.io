@@ -33,9 +33,9 @@ Born Heroes, in which he discovers the tools of the hero.
               coach. He created CrossFit Endurance, which specializes in
               movement with an emphasis in running, cycling, and swimming mechanics.
               MacKenzie and his program have been featured in Competitor, Runner's World,
-              Triathlete, Men's Journal, ESPN Rise, The Economist, and Outside. Brian has worked with 
-              Olympians, and also co-authored Power Speed Endurance, and New York Times Best
-              Seller & Men's Journal Health Book of the Year, UnBreakable Runner. 
+              Triathlete, Men's Journal, ESPN Rise, The Economist, and Outside. Brian also 
+              co-authored Power Speed Endurance, and New York Times Best Seller & Men's 
+              Journal Health Book of the Year, UnBreakable Runner. 
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411" title="brian-mackenzie2 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/523/18960195411_1c7b355558_m.jpg" width="240" height="240" alt="brian-mackenzie2"></a></div>
           <div class="boxContent2">
