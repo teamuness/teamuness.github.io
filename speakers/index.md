@@ -21,8 +21,8 @@ Born Heroes, in which he discovers the tools of the hero.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18771048279"
 title="christopher-mcdougall by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="1024"
-height="682" alt="christopher-mcdougall"></a></div>
+src="https://c1.staticflickr.com/1/265/18771048279_4f0a442d2d_o.jpg" width="210"
+height="210" alt="christopher-mcdougall"></a></div>
           <div class="boxContent2">
             <h3>Christopher McDougall</h3>
             <p>Author</p>
