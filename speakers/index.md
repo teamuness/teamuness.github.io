@@ -87,6 +87,7 @@ run across the U.S. from San Francisco to NYC.
           </div>
         </article>
       </div>
+      </div>
       <div class="row">
       <div class="span3">
         <article class="boxWrapper color1">
