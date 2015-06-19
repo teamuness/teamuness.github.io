@@ -338,8 +338,7 @@ and adventure racer.  Lisa is a woman of many "firsts".  She is the first Americ
 the Marathon des Sables stage-race through the Moroccan desert and has twice won the
 Badwater Ultramarathon.  She
 is also the first and only person to ever have run 50 miles a day in 50 states in the USA
-in 62 days! Lisa is a proven coach and motivator whose knowledge of health, fitness
-and nutrition has helped hundreds of individuals achieve their specific goals.
+in 62 days! A proven coach and motivator, Lisa has helped hundreds of individuals achieve their specific goals.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18960202531" title="lisa-smith-batchen by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/296/18960202531_53bf6fd2ee_m.jpg" width="240" height="240" alt="lisa-smith-batchen"></a></div>
           <div class="boxContent2">
