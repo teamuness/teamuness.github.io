@@ -35,7 +35,7 @@ layout: default
         </p>
         <p class="dark">
 
-            We are happy to be working again with the Hilton DoubleTree for this year. In addition to a complimentary shiuttle to Princeton, the DoubleTree has beautiful wrooms and excellent service. <a href="http://doubletree.hilton.com/en/dt/groups/personalized/P/PCTDTDT-NES-20151009/index.jhtml?WT.mc_id=POG">Click here W3Schools.com!</a> to reserve your room with a special NESS discount.
+            We are happy to be working again with the Hilton DoubleTree for this year. In addition to a complimentary shiuttle to Princeton, the DoubleTree has beautiful wrooms and excellent service. <a href="http://doubletree.hilton.com/en/dt/groups/personalized/P/PCTDTDT-NES-20151009/index.jhtml?WT.mc_id=POG">Click here</a> to reserve your room with a special NESS discount.
         </p>
            </div>
 
