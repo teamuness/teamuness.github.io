@@ -28,7 +28,6 @@ layout: default
         </p>
         <p class="dark">
          <div class="alignc">
-            <h1 class="section-title">Travel</h1><br /><br />
             <img src="http://ldcpartners.files.wordpress.com/2013/07/pcc-vsba-facade.jpg?w=470&h=251" />
         </div>
 
