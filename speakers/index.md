@@ -368,20 +368,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-            The Friends of Jaclyn Foundation’s mission is to improve the quality of life 
-            for children battling pediatric brain tumors and other childhood cancers and 
-            to raise awareness through their Adopt-A-Child, Safe on the Sidelines and 
-            Guardian Angel Programs. We do this by pairing the afflicted child and their 
-            siblings with local high school and college sports teams, campus clubs, and 
-            arts programs. 
+            Denis Murphy, President and Founder of the Friends of Jaclyn Foundation (FOJ), graduated from the University of Albany in 1985 where he was captain of the football team and met his wife, Lynda. In 2004 Denis’s daughter, Jaclyn, was diagnosed with a malignant brain tumor, and in 2005, the Murphy family started FOJ to improve the quality of life for children with brain tumors through relationships with high school, college and professional athletic teams. Denis considers his family his greatest accomplishment.   
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18931230186"
-title="friends of jaclyn by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/351/18931230186_1e99477c26_o.jpg" width="223"
-height="127" alt="friends of jaclyn"></a></div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18551153554" title="Dennis murphy by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/395/18551153554_f912628783_m.jpg" width="240" height="215" alt="Dennis murphy"></a></div>
           <div class="boxContent2">
-            <h3>Friends of Jaclyn</h3>
-            <p>Nonprofit Foundation</p>
+            <h3>Denis Murphy</h3>
+            <p>President & Founder of Friends of Jaclyn Foundation</p>
           </div>
         </article>
       </div>
