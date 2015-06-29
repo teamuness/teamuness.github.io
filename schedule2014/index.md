@@ -29,7 +29,7 @@ layout: default
                 <div class="span12">
                   <center>
                     <h1 class="section-title">2014 Schedule</h1><br /><br />
-                    <h2> (Head <a href="schedule">here</a> to check out the current year's schedule.) </h2>
+                    <h2> (Head <a href="http://elevateendurance.org/schedule">here</a> to check out the current year's schedule.) </h2>
                 </center>
 
                 <br />
