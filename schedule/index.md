@@ -30,11 +30,11 @@ layout: default
                   <center>
                     <h1 class="section-title">2015 Schedule</h1><br /><br />
                     <h2>Mind-blowing presentations.</h2>
-                    <h3>World-class clinics.</h2>
-                    <h3>Networking opportunities.</h2>
+                    <h2>World-class clinics.</h2>
+                    <h2>Networking opportunities.</h2>
                     <br>
                     <br>
-                    <h2>We are working with our awesome <a href="http://elevateendurance.org/speakers">speakers</a> to ensure you have the best possible program. In the meantime, check out the 2014 schedule <a href="http://elevateendurance.org/schedule2014">here</a>.</h3>
+                    <h3>We are working with our awesome <a href="http://elevateendurance.org/speakers">speakers</a> to ensure you have the best possible program. In the meantime, check out the 2014 schedule <a href="http://elevateendurance.org/schedule2014">here</a>.</h3>
                     Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a>
                 </center>
 
