@@ -382,7 +382,7 @@ workshop for atheletes to better their technique and form for all movements.
           <div class="speaker-box-overlay">
              Theresa Roden, Founder and Executive Director of i-tri, earned an Education Degree from Stonehill College in MA. Inspired by her own transformative experience of completing a triathlon, Roden set out to see if it was possible to lead a group of at-risk adolescent girls on a similar journey to the finish line of a youth distance triathlon, along the way increasing their self-esteem and fitness levels. While many believe her hometown of the Hamptons is a summer-playground for the rich and famous, it is home to a diverse community of year-round residents. Fifty percent of students in the area consider themselves a minority and ten percent of the population lives below the poverty level.  
           </div>
-          <div><a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/126949511@N07/19581613671/in/album-72157654707426096/" title="Theresa Roden"><img src="https://farm4.staticflickr.com/3776/19581613671_771955f76c_m.jpg" width="148" height="148" alt="Theresa Roden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div><a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/126949511@N07/19581613671/in/album-72157654707426096/" title="Theresa Roden"><img src="https://farm4.staticflickr.com/3776/19581613671_771955f76c_m.jpg" width="148" height="148" alt="Theresa Roden"></a></div>
           <div class="boxContent2">
             <h3>Theresa Roden</h3>
             <p>Founder & Executive Director of i-tri</p>
