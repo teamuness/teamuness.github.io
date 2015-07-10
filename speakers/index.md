@@ -29,18 +29,12 @@ Born Heroes, in which he discovers the tools of the hero.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Brian MacKenzie is a movement specialist and strength and conditioning
-              coach. He created CrossFit Endurance, which specializes in
-              movement with an emphasis in running, cycling, and swimming mechanics.
-              MacKenzie and his program have been featured in Competitor, Runner's World,
-              Triathlete, Men's Journal, ESPN Rise, The Economist, and Outside. Brian also 
-              co-authored Power Speed Endurance, and New York Times Best Seller & Men's 
-              Journal Health Book of the Year, UnBreakable Runner. 
+              Nikolas Toocheck, a young philanthropist, is running a marathon in each of the 50 U.S. states to raise money for the Seva Foundation, a non-profit organization that provides critical vision care to people in need around the world. At age nine, he started a campaign to help children in need called Running the World for Children. At age 11, Nikolas became the youngest person in history to complete a marathon on each continent. When not running, he also enjoys playing baseball, football and wrestling. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18960195411" title="brian-mackenzie2 by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/523/18960195411_1c7b355558_m.jpg" width="240" height="240" alt="brian-mackenzie2"></a></div>
+          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/18965087133/in/album-72157654707426096/" title="Nikolas Toocheck"><img src="https://farm1.staticflickr.com/544/18965087133_4be2428f60_o.jpg" width="768" height="768" alt="Nikolas Toocheck"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Brian MacKenzie</h3>
-            <p>Founder of CrossFit Endurance &amp; Coach</p>
+            <h3>Nikolas Toocheck</h3>
+            <p>Marathoner & Philanthropist</p>
           </div>
         </article>
       </div>
