@@ -398,6 +398,65 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
+              Cason Crane is a long time triathlete and mountaineer from Princeton, NJ. He founded the Rainbow Summits Project, an initiative that raised funds and awareness for The Trevor Project, a suicide a crisis prevention service for LGBTQ youth. In climbing the Seven Summits, Cason raised over $130,000 for The Trevor Project. Cason has been featured on CNN and other major news outlets. Cason currently attends Princeton University.
+          </div>
+          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/19066516033/in/album-72157654707426096/" title="Cason Crane"><img src="https://farm1.staticflickr.com/513/19066516033_2f8db0aa86_o.jpg" width="960" height="960" alt="Cason Crane"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div class="boxContent2">
+            <h3>Cason Crane</h3>
+            <p>Endurance Athlete & Founder of Rainbow Summits</p>
+          </div>
+        </article>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+            Coming soon!   
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
+          <div class="boxContent2">
+            <h3>To Be Announced</h3>
+            <p>T.B.A.</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+             Coming soon!
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
+          <div class="boxContent2">
+            <h3>To Be Announced</h3>
+            <p>T.B.A.</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Coming soon!
+          </div>
+          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
+title="NESS background by annabroome, on Flickr"><img
+src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
+height="207" alt="NESS background"></a></div>
+          <div class="boxContent2">
+            <h3>To Be Announced</h3>
+            <p>T.B.A.</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
               Coming soon!
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
