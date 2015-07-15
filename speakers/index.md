@@ -424,15 +424,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-             Coming soon!
+             Dr. Rob Gilbert is one of the world’s leading experts on port psychology. As a professor at Montclair State University, he teaches sport psychology and also researches athletic motivation and teamwork, studies that have helped literally thousands of athletes defeat their mental problems. He has studied the mental skills of not only the world’s greatest athletes, but also the most successful business executives and highest-earning salespeople.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
+          <div><a data-flickr-embed="true" href="https://www.flickr.com/photos/126949511@N07/19516155368/in/album-72157654707426096/" title="Dr. Rob Gilbert"><img src="https://farm1.staticflickr.com/432/19516155368_13c6ff8636_o.jpg" width="204" height="204" alt="Dr. Rob Gilbert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
+            <h3>Dr. Rob Gilbert</h3>
+            <p>Professor & Coach</p>
           </div>
         </article>
       </div>
