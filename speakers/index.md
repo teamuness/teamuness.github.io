@@ -29,12 +29,12 @@ Born Heroes, in which he discovers the tools of the hero.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Nikolas Toocheck, a young philanthropist, is running a marathon in each of the 50 U.S. states to raise money for the Seva Foundation, a non-profit organization that provides critical vision care to people in need around the world. At age nine, he started a campaign to help children in need called Running the World for Children. At age 11, Nikolas became the youngest person in history to complete a marathon on each continent. When not running, he also enjoys playing baseball, football and wrestling. 
+              Karl Meltzer is one of the world’s best ultrarunners. He holds the record for most career wins in 100-mile races, and he has set course speed records at the toughest 100s on the planet. In 2006, Karl won a world-record six 100s in a single season and earned Road Runners Club of America’s Runner of the Year and the Everest Award (the Academy Awards of adventure sports). In 2007 and 2009, he won five 100s, setting numerous course records (sometimes by hours). In 2008, he took his mountain endurance to a new extreme, completing the Appalachian Trail in 54 days, the fourth-fastest time in history. 
           </div>
-          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/18965087133/in/album-72157654707426096/" title="Nikolas Toocheck"><img src="https://farm1.staticflickr.com/544/18965087133_4be2428f60_o.jpg" width="768" height="768" alt="Nikolas Toocheck"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/19081340274/in/album-72157654707426096/" title="Karl Meltzer"><img src="https://farm1.staticflickr.com/367/19081340274_c16eaedb35_o.png" width="205" height="205" alt="Karl Meltzer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Nikolas Toocheck</h3>
-            <p>Marathoner & Philanthropist</p>
+            <h3>Karl Meltzer</h3>
+            <p>Ultrarunner & Coach</p>
           </div>
         </article>
       </div>
@@ -412,15 +412,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-            Coming soon!   
+            Nikolas Toocheck, a young philanthropist, is running a marathon in each of the 50 U.S. states to raise money for the Seva Foundation, a non-profit organization that provides critical vision care to people in need around the world. At age nine, he started a campaign to help children in need called Running the World for Children. At age 11, Nikolas became the youngest person in history to complete a marathon on each continent. When not running, he also enjoys playing baseball, football and wrestling. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
+          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/18965087133/in/album-72157654707426096/" title="Nikolas Toocheck"><img src="https://farm1.staticflickr.com/544/18965087133_4be2428f60_o.jpg" width="768" height="768" alt="Nikolas Toocheck"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
+            <h3>Nikolas Toocheck</h3>
+            <p>Marathoner & Philanthropist</p>
           </div>
         </article>
       </div>
