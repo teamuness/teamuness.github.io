@@ -386,12 +386,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Claire graduated from NYU's Clinical Nutrition Master's program (MS) and is a licensed dietitian by NY state (CDN) and registered nationally (RD). She currently works at Montefiore Medical Center as an inpatient clinical dietitian. Claire also does outpatient private nutrition counseling and is in the process of starting her own nutrition company, "Eat for Endurance: Nutrition counseling for longevity in life and in sport.” She is a private run coach as well as lifelong runner and food enthusiast. 
+          Dr. Rob Gilbert is one of the world’s leading experts on port psychology. As a professor at Montclair State University, he teaches sport psychology and also researches athletic motivation and teamwork, studies that have helped literally thousands of athletes defeat their mental problems. He has studied the mental skills of not only the world’s greatest athletes, but also the most successful business executives and highest-earning salespeople.
           </div>
-          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/19475240899/in/album-72157654707426096/" title="Claire Shorenstein"><img src="https://farm4.staticflickr.com/3834/19475240899_98d2c274e5_o.jpg" width="984" height="984" alt="Claire Shorenstein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div><a data-flickr-embed="false" href="https://www.flickr.com/photos/126949511@N07/19516155368/in/album-72157654707426096/" title="Dr. Rob Gilbert"><img src="https://farm1.staticflickr.com/432/19516155368_13c6ff8636_o.jpg" width="204" height="204" alt="Dr. Rob Gilbert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Claire Shorenstein</h3>
-            <p>Registered Dietitian Nutritionist & Coach</p>
+            <h3>Dr. Rob Gilbert</h3>
+            <p>Professor & Coach</p>
           </div>
         </article>
       </div>
@@ -424,12 +424,12 @@ workshop for atheletes to better their technique and form for all movements.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-             Dr. Rob Gilbert is one of the world’s leading experts on port psychology. As a professor at Montclair State University, he teaches sport psychology and also researches athletic motivation and teamwork, studies that have helped literally thousands of athletes defeat their mental problems. He has studied the mental skills of not only the world’s greatest athletes, but also the most successful business executives and highest-earning salespeople.
+             Claire graduated from NYU's Clinical Nutrition Master's program (MS) and is a licensed dietitian by NY state (CDN) and registered nationally (RD). She currently works at Montefiore Medical Center as an inpatient clinical dietitian. Claire also does outpatient private nutrition counseling and is in the process of starting her own nutrition company, "Eat for Endurance: Nutrition counseling for longevity in life and in sport.” She is a private run coach as well as lifelong runner and food enthusiast. 
           </div>
-          <div><a data-flickr-embed="true" href="https://www.flickr.com/photos/126949511@N07/19516155368/in/album-72157654707426096/" title="Dr. Rob Gilbert"><img src="https://farm1.staticflickr.com/432/19516155368_13c6ff8636_o.jpg" width="204" height="204" alt="Dr. Rob Gilbert"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/19475240899/in/album-72157654707426096/" title="Claire Shorenstein"><img src="https://farm4.staticflickr.com/3834/19475240899_98d2c274e5_o.jpg" width="984" height="984" alt="Claire Shorenstein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Dr. Rob Gilbert</h3>
-            <p>Professor & Coach</p>
+            <h3>Claire Shorenstein</h3>
+            <p>Registered Dietitian Nutritionist & Coach</p>
           </div>
         </article>
       </div>
