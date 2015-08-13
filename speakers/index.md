@@ -62,17 +62,12 @@ height="438" alt="julie-angel"></a></div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Ray Zahab is an ultrarunner and founder of impossible2Possible, where he
-educates and inspires youth to reach beyond their limits and promote social and
-environmental action. Ray has taken on some of the most challenging expeditions, including
-trekking across the Sahara Desert by foot in 111 days while raising awareness for the
-water crises in Africa. His feat was the subject of the documentary Running the Sahara,
-produced and narrated by Matt Damon.
+              Travis Macy is a speaker, author, coach, and professional endurance athlete. He is the author of The Ultra Mindset: An Endurance Champion's 8 Core Principles for Success in Business, Sports, and Life, and he holds the record for Leadman, an epic endurance event consisting of a trail running marathon, 50-mile mountain bike race, Leadville 100 Mountain Bike Race, 10k road run, and Leadville 100 Run, all above 10,200' in the Rocky Mountains. Travis lives with his wife and two young children in the mountains around Evergreen, Colorado.
           </div>
-          <div><img src="/static/speakers/ray-zahab.jpg" alt=""></div>
+          <div><img src="http://i1095.photobucket.com/albums/i470/jebenun/Travis%20Macy_zpsloxur9bx.jpg" alt=""></div>
           <div class="boxContent2">
-            <h3>Ray Zahab</h3>
-            <p>Ultrarunner &amp; Mountaineer</p>
+            <h3>Travis Macy</h3>
+            <p>Ultrarunner</p>
           </div>
         </article>
       </div>
