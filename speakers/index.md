@@ -198,16 +198,12 @@ Ultrarunning Magazine.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Matt Fitzgerald is an award winning journalist and bestselling author of
-over 20 books on endurance sports and nutrition, including Brain Training for Runners and
-Racing Weight. One of his most recent books, Diet Cult, takes a critical look at many of
-the current popular diets. Matt is a running and triathlon coach, as well as a certified
-sports nutritionist, serving as a consultant for a variety of sports nutrition companies.
+              Simon Donato PhD, is a geologist, entrepreneur, television host, writer, public speaker, adventurer, and ultra endurance athlete. An entrepreneur at heart, Simon is the co-founder and president of Stoked Oats, a gluten free oatmeal company; founder of Adventure Science, a volunteer based scientific field exploration organization, and; Co-founder, creative producer, and host of Boundless, an adventure sports television show entering its third season on NBC's Esquire Network. An expert in expedition planning, he has also acted as a technical producer for other expedition based television programs.
           </div>
-          <div><img src="/static/speakers/matt-fitzgerald.jpg" alt=""></div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20580464858/in/album-72157654707426096/" title="Simon Donato"><img src="https://farm1.staticflickr.com/743/20580464858_f5195f3ab1_o.jpg" width="400" height="400" alt="Simon Donato"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Matt Fitzgerald</h3>
-            <p>Author, Nutritionist, &amp; Coach</p>
+            <h3>Dr. Simon Donato</h3>
+            <p>Boundless Host, Endurance Athlete, Geologist</p>
           </div>
         </article>
       </div>  
@@ -266,21 +262,12 @@ approach to nutrition.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Jeff is an activist who has worked on many social
-justice isues including worker rights, land issues, and racial equity. Jeff has been
-connected to Ben & Jerry's since its inception. He is credited with helping to write the
-first business plan and has been involved with management and/or the board of directors
-for more than 35 years. He is the board's current chair. Jeff also serves on the board of
-the Oakland Institute and Edge Funders Alliance. His work often entails connecting the
-business world with the activist's world. 
+              Michael Sachs is a Professor in the Department of Kinesiology, College of Public Health, at Temple University. He received his Ph.D. in sport psychology from Florida State University. Michael is associate editor of Psychology of Running and coeditor of Running as Therapy: An Integrated Approach, and co-wrote The Total Sports Experience for Kids: A Parents' Guide to Success in Youth Sports. His research interests focus upon exercise psychology, particularly motivation and adherence, exercise addiction, and the psychology of running. Michael enjoys exercising, particularly running and swimming, and has run two marathons: the Joe Steele Rocket City Marathon (Huntsville, AL) and the New York City Marathon. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18336601713"
-title="jeff-furman by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/325/18336601713_f90293afb3_o.png" width="230"
-height="230" alt="jeff-furman"></a></div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20575497938/in/album-72157654707426096/" title="Sachspicture.2015"><img src="https://farm6.staticflickr.com/5741/20575497938_8436b34fb2_o.jpg" width="225" height="225" alt="Sachspicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>Jeff Furman</h3>
-            <p>Activist &amp; Businessman</p>
+            <h3>Dr. Michael Sachs</h3>
+            <p>Professor &amp; Sport Psychologist</p>
           </div>
         </article>
       </div>
@@ -381,15 +368,12 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-               Coming soon!
+               Kat Longshore earned her Ph.D. in the Psychology of Movement from Temple University in July, 2015. Her research focused on creating and implementing a Mindfulness Training for Coaches (MTC) program to reduce stress, improve emotion regulation, and enhance coaching and work-life balance for collegiate coaches.  Kat is also an experienced Mental Performance Coach, with over 10 years of practice working with international, elite, professional, and collegiate athletes, coaches, and teams, helping them enhance their performance and satisfaction in sport and life.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20575510380/in/album-72157654707426096/" title="Longshorepicture.2015"><img src="https://farm1.staticflickr.com/778/20575510380_06e146fbd8_o.jpg" width="572" height="572" alt="Longshorepicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
+            <h3>Dr. Kat Longshore</h3>
+            <p>Mental Performance Coach</p>
           </div>
         </article>
       </div>
@@ -398,15 +382,12 @@ height="207" alt="NESS background"></a></div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-            Coming soon!
+            For over 20 years Meg Waldron has guided athletes from age group to elite. In her day she was a track All-American, 5th in the Mayor's Midnight Sun Marathon, and helped run the Olympic torch down the PanAmerican highway. She is a USATF certified coach and studied at the Penn Program for Mindfulness. Meg's been published in Runner's World, The Complete Book of Running for Women, and Be Iron Fit, and has worked with the US Olympic Development team. She’s finishing her Master’s in Sport Psychology at Temple University.
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20754095572/in/album-72157654707426096/" title="Waldronpicture.2015"><img src="https://farm1.staticflickr.com/753/20754095572_85bb473968_o.jpg" width="388" height="388" alt="Waldronpicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
+            <h3>Meg Waldron</h3>
+            <p>Mental Conditioning Coach</p>
           </div>
         </article>
       </div>
