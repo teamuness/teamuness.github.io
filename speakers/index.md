@@ -198,7 +198,7 @@ Ultrarunning Magazine.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Simon Donato PhD, is a geologist, entrepreneur, television host, writer, public speaker, adventurer, and ultra endurance athlete. An entrepreneur at heart, Simon is the co-founder and president of Stoked Oats, a gluten free oatmeal company; founder of Adventure Science, a volunteer based scientific field exploration organization, and; Co-founder, creative producer, and host of Boundless, an adventure sports television show entering its third season on NBC's Esquire Network. An expert in expedition planning, he has also acted as a technical producer for other expedition based television programs.
+              Simon Donato PhD, is a geologist, entrepreneur, television host, writer, public speaker, adventurer, and ultra endurance athlete. An entrepreneur at heart, Simon is the co-founder and president of Stoked Oats, a gluten free oatmeal company; founder of Adventure Science, a volunteer based scientific field exploration organization, and; Co-founder, creative producer, and host of Boundless, an adventure sports television show entering its third season on NBC's Esquire Network. He has also acted as a technical producer for other expedition based television programs.
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20580464858/in/album-72157654707426096/" title="Simon Donato"><img src="https://farm1.staticflickr.com/743/20580464858_f5195f3ab1_o.jpg" width="400" height="400" alt="Simon Donato"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
@@ -262,7 +262,7 @@ approach to nutrition.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Michael Sachs is a Professor in the Department of Kinesiology, College of Public Health, at Temple University. He received his Ph.D. in sport psychology from Florida State University. Michael is associate editor of Psychology of Running and coeditor of Running as Therapy: An Integrated Approach, and co-wrote The Total Sports Experience for Kids: A Parents' Guide to Success in Youth Sports. His research interests focus upon exercise psychology, particularly motivation and adherence, exercise addiction, and the psychology of running. Michael enjoys exercising, particularly running and swimming, and has run two marathons: the Joe Steele Rocket City Marathon (Huntsville, AL) and the New York City Marathon. 
+              Michael Sachs is a Professor in the Department of Kinesiology, College of Public Health, at Temple University. He received his Ph.D. in sport psychology from Florida State University. Michael is associate editor of Psychology of Running and coeditor of Running as Therapy: An Integrated Approach, and co-wrote The Total Sports Experience for Kids: A Parents' Guide to Success in Youth Sports. His research interests focus on exercise psychology, particularly motivation and adherence, exercise addiction, and the psychology of running. 
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20575497938/in/album-72157654707426096/" title="Sachspicture.2015"><img src="https://farm6.staticflickr.com/5741/20575497938_8436b34fb2_o.jpg" width="225" height="225" alt="Sachspicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
@@ -368,7 +368,7 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-               Kat Longshore earned her Ph.D. in the Psychology of Movement from Temple University in July, 2015. Her research focused on creating and implementing a Mindfulness Training for Coaches (MTC) program to reduce stress, improve emotion regulation, and enhance coaching and work-life balance for collegiate coaches.  Kat is also an experienced Mental Performance Coach, with over 10 years of practice working with international, elite, professional, and collegiate athletes, coaches, and teams, helping them enhance their performance and satisfaction in sport and life.
+               Kat Longshore earned her Ph.D. in the Psychology of Movement from Temple University in July, 2015. Her research focused on creating and implementing a Mindfulness Training for Coaches program to reduce stress, improve emotion regulation, and enhance work-life balance for collegiate coaches.  Kat is also an experienced Mental Performance Coach, with over 10 years of practice working with elite athletes, coaches, and teams, helping them enhance their performance and satisfaction in sport and life.
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20575510380/in/album-72157654707426096/" title="Longshorepicture.2015"><img src="https://farm1.staticflickr.com/778/20575510380_06e146fbd8_o.jpg" width="572" height="572" alt="Longshorepicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
@@ -382,7 +382,7 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-            For over 20 years Meg Waldron has guided athletes from age group to elite. In her day she was a track All-American, 5th in the Mayor's Midnight Sun Marathon, and helped run the Olympic torch down the PanAmerican highway. She is a USATF certified coach and studied at the Penn Program for Mindfulness. Meg's been published in Runner's World, The Complete Book of Running for Women, and Be Iron Fit, and has worked with the US Olympic Development team. She’s finishing her Master’s in Sport Psychology at Temple University.
+            For over 20 years Meg Waldron has guided athletes from age group to elite. In her day she was a track All-American, 5th in the Mayor's Midnight Sun Marathon, and helped run the Olympic torch down the PanAmerican highway. She is a USATF certified coach and studied at the Penn Program for Mindfulness. Published in Runner's World, The Complete Book of Running for Women, and Be Iron Fit, Meg has worked with the US Olympic Development team. She’s finishing her Master’s in Sport Psychology at Temple University.
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20754095572/in/album-72157654707426096/" title="Waldronpicture.2015"><img src="https://farm1.staticflickr.com/753/20754095572_85bb473968_o.jpg" width="388" height="388" alt="Waldronpicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
