@@ -198,7 +198,7 @@ Ultrarunning Magazine.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Simon Donato PhD, is a geologist, entrepreneur, television host, writer, public speaker, adventurer, and ultra endurance athlete. An entrepreneur at heart, Simon is the co-founder and president of Stoked Oats, a gluten free oatmeal company; founder of Adventure Science, a volunteer based scientific field exploration organization, and; Co-founder, creative producer, and host of Boundless, an adventure sports television show entering its third season on NBC's Esquire Network. He has also acted as a technical producer for other expedition based television programs.
+              Dr. Simon Donato is a geologist, entrepreneur, television host, writer, public speaker, adventurer, and ultra endurance athlete. An entrepreneur at heart, Simon is the co-founder and president of Stoked Oats, a gluten free oatmeal company; founder of Adventure Science, a volunteer based scientific field exploration organization, and; Co-founder, creative producer, and host of Boundless, an adventure sports television show on NBC's Esquire Network. He has also been a technical producer for other expedition based television programs.
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20580464858/in/album-72157654707426096/" title="Simon Donato"><img src="https://farm1.staticflickr.com/743/20580464858_f5195f3ab1_o.jpg" width="400" height="400" alt="Simon Donato"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
@@ -262,7 +262,7 @@ approach to nutrition.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Michael Sachs is a Professor in the Department of Kinesiology, College of Public Health, at Temple University. He received his Ph.D. in sport psychology from Florida State University. Michael is associate editor of Psychology of Running and coeditor of Running as Therapy: An Integrated Approach, and co-wrote The Total Sports Experience for Kids: A Parents' Guide to Success in Youth Sports. His research interests focus on exercise psychology, particularly motivation and adherence, exercise addiction, and the psychology of running. 
+              Michael Sachs is a Professor in the Department of Kinesiology, College of Public Health, at Temple University. He received his Ph.D. in sport psychology from Florida State University. Michael is associate editor of Psychology of Running and coeditor of Running as Therapy: An Integrated Approach, and co-wrote The Total Sports Experience for Kids: A Parents' Guide to Success in Youth Sports. His research interests focus upon motivation and adherence, exercise addiction, and the psychology of running. 
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20575497938/in/album-72157654707426096/" title="Sachspicture.2015"><img src="https://farm6.staticflickr.com/5741/20575497938_8436b34fb2_o.jpg" width="225" height="225" alt="Sachspicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
