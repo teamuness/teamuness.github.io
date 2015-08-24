@@ -34,8 +34,7 @@ layout: default
                     <h2>World-class clinics.</h2>
                     <h2>Top-notch networking opportunities.</h2>
                     <br>
-                    <br><h3> (Head <a href="http://elevateendurance.org/schedule2014">here</a> to check out the last year's schedule.) </h3>
-                    <h4> Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a></h4>
+                    <h4> Head <a href="http://elevateendurance.org/schedule2014">here</a> to check out the last year's schedule. Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a></h4>
                 </center>
 <br>
                     <br>
