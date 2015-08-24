@@ -113,15 +113,16 @@ layout: default
                           <td>10:00 AM to 10:50 AM</td><td> <strong> Presentation: </strong>Dr. Nicholas Romanov, “The Science of Running Farther, Faster, and Injury Free ”
                             <br> <em>Frist Multipurpose Area</em></td>
                       </tr>
-                      <tr>
+    <tr>
                           <td>11:00 AM to 11:50 AM</td><td> <strong> Panel: </strong> <br>  “Going Further for a Greater Cause”
                           <br>Dennis Murphy, Cason Crane, Theresa Roden, and Nikolas Toochek
-                          <em>Frist Multipurpose Area</em></td>
+                          <em>Frist Multipurpose Area</em>
+
                           <br>
                           <br>
                           <strong> Presentation: </strong> Dr. David Horton, "Trials, Triumphs, and the World's Hardest Race"  <br> <em>Frist Multipurpose Area </em>
-                      </tr>
-                      <tr>
+                      </td>
+                      </tr>                      <tr>
                           <td>12:00 PM to 12:50 PM</td><td> <strong> Lunch </strong> (Places to eat are listed in your program)<br> <br> <em><strong>Activity: </strong> Princeton Tour: See Princeton in Under an Hour
                             <br>Start Location: T.B.A. </em></td>
                       </tr>
