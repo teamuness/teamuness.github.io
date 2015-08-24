@@ -394,15 +394,12 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Coming soon!
+              Elizabeth Seeley is a Doctoral Student in Kinesiology at Temple University with research interest in mindfulness and distance running.  She has over 15 years of experience and a wealth of knowledge from working in the behavioral health field as a child and family therapist and program supervisor. In addition to her clinical experience, Elizabeth served as the Director of Development at WES Health System, a leading health and human service provider in Pennsylvania, New Jersey and Illinois. As a former competitive distance runner, Elizabeth brings a unique perspective and set of skills to her work in the behavioral health field.  Elizabeth received a BA in Psychology from American University and a Master’s in Social Work from Rutgers University. 
           </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20223344894/in/album-72157654707426096/" title="Elizabeth Seeley"><img src="https://farm1.staticflickr.com/651/20223344894_d7d9372e78_o.jpg" width="960" height="960" alt="Elizabeth Seeley"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
+            <h3>Elizabeth Seeley</h3>
+            <p>Kinesiology Doctoral Student</p>
           </div>
         </article>
       </div>
