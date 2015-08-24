@@ -394,7 +394,7 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Elizabeth Seeley is a Doctoral Student in Kinesiology at Temple University with research interest in mindfulness and distance running.  She has over 15 years of experience and a wealth of knowledge from working in the behavioral health field as a child and family therapist and program supervisor. Elizabeth also served as the Director of Development at WES Health System, a leading health and human service provider. A former competitive distance runner, Elizabeth received a BA in Psychology from American University and a Master’s in Social Work from Rutgers University. 
+              Elizabeth Seeley is a Doctoral Student in Kinesiology at Temple University with research interest in mindfulness and distance running.  She has over 15 years of experience in the behavioral health field as a child and family therapist and program supervisor. Elizabeth also served as the Director of Development at WES Health System, a leading health and human service provider. A former competitive distance runner, Elizabeth received a BA in Psychology from American University and a Master’s in Social Work from Rutgers University. 
           </div>
           <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20223344894/in/album-72157654707426096/" title="Elizabeth Seeley"><img src="https://farm1.staticflickr.com/651/20223344894_d7d9372e78_o.jpg" width="960" height="960" alt="Elizabeth Seeley"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
