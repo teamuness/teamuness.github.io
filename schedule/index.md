@@ -81,7 +81,7 @@ layout: default
                             <td>4:30 PM to 5:20 PM</td><td> <strong> Clinic: </strong> Dr. Julie Angel, “Introduction to Parkour and Art of Movement”
                               <br> <em>Frist Multipurpose Area </em><br><br>
                             <strong> Presentation: </strong> Travis Macy, “The Ultra Mindset”
-                            <br> <em>Frist Multipurpose Area </em><br><br></td>
+                            <br> <em>Frist Multipurpose Area </em><br></td>
                         </tr>
                         <tr>
                             <td>5:30 PM to 6:20 PM</td><td> <strong> Presentation: </strong> Terra Castro, “Life Lessons Learned from Racing Professionally” <br> <em>Frist Multipurpose Area</em></td>
@@ -106,16 +106,16 @@ layout: default
                           <td> 9:00 AM to 9:50 AM</td><td> <strong> Panel: </strong> “Mindful Running: Enhancing Your Running Experience and Performance Through Mindfulness Training”
                             <br> Dr. Kathryn Longshore, Elizabeth Seeley, Meg Waldron
                             <br> Moderator: Dr. Michael Sachs
-                            <em> Frist Multipurpose Area</em></td>
+                            <br> <em> Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
                           <td>10:00 AM to 10:50 AM</td><td> <strong> Presentation: </strong>Dr. Nicholas Romanov, “The Science of Running Farther, Faster, and Injury Free ”
                             <br> <em>Frist Multipurpose Area</em></td>
                       </tr>
     <tr>
-                          <td>11:00 AM to 11:50 AM</td><td> <strong> Panel: </strong> <br>  “Going Further for a Greater Cause”
+                          <td>11:00 AM to 11:50 AM</td><td> <strong> Panel: </strong>  “Going Further for a Greater Cause”
                           <br>Dennis Murphy, Cason Crane, Theresa Roden, and Nikolas Toochek
-                          <em>Frist Multipurpose Area</em>
+                          <br><em>Frist Multipurpose Area</em>
 
                           <br>
                           <br>
@@ -126,10 +126,10 @@ layout: default
                             <br>Start Location: T.B.A. </em></td>
                       </tr>
                       <tr>
-                          <td>1:00 PM to 1:50 PM</td><td> <strong> Roundtable Discussion: </strong> “The Psychic Side: Untold Stories from Endurance Sports”<br> Speakers & Audience <br> <br> Moderator: Dr. Rob Gilbert <em>Frist Multipurpose Area</em></td>
+                          <td>1:00 PM to 1:50 PM</td><td> <strong> Roundtable Discussion: </strong> “The Psychic Side: Untold Stories from Endurance Sports”<br> Speakers & Audience <br> Moderator: Dr. Rob Gilbert <br><em>Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
-                          <td>2:00 PM to 2:50 PM</td><td> <strong> Presentation: </strong> <br> Michael Vitez, “The Road Back” <em>Frist Multipurpose Area</em></td>
+                          <td>2:00 PM to 2:50 PM</td><td> <strong> Presentation: </strong> Michael Vitez, “The Road Back” <br><em>Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
                           <td>3:00 PM to 4:00 PM</td><td> <strong> Keynote Address: “20 Years of Mondays: Changing Passion into Purpose” </strong> <br> Lisa Smith-Batchen <br>
@@ -143,7 +143,7 @@ layout: default
  <br> <em>Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
-                          <td>6:00 PM to 7:00 PM</td><td> <strong> Closing Special: </strong> <br> Dance/Music/Improv Performance <em>Location: TBA</em></td>
+                          <td>6:00 PM to 7:00 PM</td><td> <strong> Closing Special: </strong>  Dance/Music/Improv Performance <br><em>Location: TBA</em></td>
                       </tr>
                       
                     </table>
