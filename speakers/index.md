@@ -356,12 +356,12 @@ weekend warrior to pursue their goals to the best of their abilities.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-             Claire graduated from NYU's Clinical Nutrition Master's program (MS) and is a licensed dietitian by NY state (CDN) and registered nationally (RD). She currently works at Montefiore Medical Center as an inpatient clinical dietitian. Claire also does outpatient private nutrition counseling and is in the process of starting her own nutrition company, "Eat for Endurance: Nutrition counseling for longevity in life and in sport.” She is a private run coach as well as lifelong runner and food enthusiast. 
+             Claire Shorenstein is a NYC based Registered Dietitian Nutritionist, RRCA running coach, and distance runner. She received her M.S. in Clinical Nutrition from NYU and works with adult and pediatric patients at Montefiore Medical Center. Through her nutrition and coaching business, Eat for Endurance, Claire helps private clients achieve their nutrition and exercise goals without sacrificing all the joy in their lives! She has completed numerous marathons and ultra marathons, and gives back to the community every year by coaching the Gilda's Club NYC Marathon cancer support charity team.
           </div>
           <div><a data-flickr-embed="false" data-header="false" data-footer="false"  href="https://www.flickr.com/photos/126949511@N07/19475240899/in/album-72157654707426096/" title="Claire Shorenstein"><img src="https://farm4.staticflickr.com/3834/19475240899_98d2c274e5_o.jpg" width="984" height="984" alt="Claire Shorenstein"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
           <div class="boxContent2">
             <h3>Claire Shorenstein</h3>
-            <p>Registered Dietitian Nutritionist & Coach</p>
+            <p>Registered Dietitian & Running Coach</p>
           </div>
         </article>
       </div>
