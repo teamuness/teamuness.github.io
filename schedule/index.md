@@ -143,7 +143,7 @@ layout: default
  <br> <em>Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
-                          <td>6:00 PM to 7:00 PM</td><td> <strong> Closing Special: </strong>  Dance/Music/Improv Performance <br><em>Location: TBA</em></td>
+                          <td>6:00 PM to 7:00 PM</td><td> <strong> Closing Special: </strong>  Dance/Music/Improv Performance <br><em>Location: T.B.A.</em></td>
                       </tr>
                       
                     </table>
