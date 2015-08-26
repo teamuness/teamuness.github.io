@@ -50,7 +50,7 @@ layout: default
                         </tr>
                         <tr>
                             <td>9:00 AM to 9:50 AM</td><td> <strong> Panel: </strong> “To Eat or Not to Eat: Perspectives on Nutrition”
-                               Jason Fitzgerald, Vinnie Tortorich, Terra Castro, Claire Shorenstein
+                              <br> Jason Fitzgerald, Vinnie Tortorich, Terra Castro, Claire Shorenstein
                                <br> Moderator: Andy Wegman <br><em>Frist Multipurpose Area </em></td>
                         </tr>
                         <tr>
