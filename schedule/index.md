@@ -59,7 +59,7 @@ layout: default
                         </tr>
                         <tr>
                             <td>11:00 AM to 11:50 AM</td><td> <strong> Presentation: </strong> Vinnie Tortorich, “Fact and Fable in Fitness and Health”  <br> <em>Frist Multipurpose Area </em>
-                            <br><br><strong> Presentation: </strong> Dr. David Horton, "Trials, Triumphs, and the World's Hardest Race"  <br> <em>Frist Multipurpose Area </em>
+                            <br><br><strong> Presentation: </strong> Dr. David Horton, "Lessons Learned from 100,000 Miles of Running"  <br> <em>Frist Multipurpose Area </em>
                             </td>
                         </tr>
                         <tr>
