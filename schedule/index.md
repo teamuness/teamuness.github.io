@@ -58,7 +58,9 @@ layout: default
                               <br> <em>Frist Multipurpose Area </em></td>
                         </tr>
                         <tr>
-                            <td>11:00 AM to 11:50 AM</td><td> <strong> Presentation: </strong> Vinnie Tortorich, “Fact and Fable in Fitness and Health”  <br> <em>Frist Multipurpose Area </em></td>
+                            <td>11:00 AM to 11:50 AM</td><td> <strong> Presentation: </strong> Vinnie Tortorich, “Fact and Fable in Fitness and Health”  <br> <em>Frist Multipurpose Area </em>
+                            <strong> Presentation: </strong> Dr. David Horton, "Trials, Triumphs, and the World's Hardest Race"  <br> <em>Frist Multipurpose Area </em>
+                            </td>
                         </tr>
                         <tr>
                             <td>12:00 PM to 12:50 PM</td><td> <strong> Lunch </strong> (Places to eat are listed in your program)<br> <br> <em><strong>Activity: </strong> Princeton Tour: See Princeton in Under an Hour
@@ -119,7 +121,7 @@ layout: default
 
                           <br>
                           <br>
-                          <strong> Presentation: </strong> Dr. David Horton, "Trials, Triumphs, and the World's Hardest Race"  <br> <em>Frist Multipurpose Area </em>
+                          
                       </td>
                       </tr>                      <tr>
                           <td>12:00 PM to 12:50 PM</td><td> <strong> Lunch </strong> (Places to eat are listed in your program)<br> <br> <em><strong>Activity: </strong> Princeton Tour: See Princeton in Under an Hour
