@@ -119,8 +119,8 @@ layout: default
                           <br>Dennis Murphy, Cason Crane, Theresa Roden, and Nikolas Toochek
                           <br><em>Frist Multipurpose Area</em>
 
-                          <br>
-                          <br>
+                          
+                          
                           
                       </td>
                       </tr>                      <tr>
