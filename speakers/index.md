@@ -212,10 +212,7 @@ Ultrarunning Magazine.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Terra Castro is a professional triathlete from Detroit, residing in
-Arlington, Virginia. She turned pro in 2003, and one year later completed her first
-Ironman 70.3 race finishing in 2nd place. In addition to her triathlon. In 2011, she was
-the first American to cross the line in the 2011 Ironman Cozumel.
+              Terra Castro is a professional triathlete from Detroit, Michigan. In 2014, Terra founded the Be Bold Crew- a mobile endurance training + racing team in the city, for the city.  The crew not only races + trains together but free programs for youth and adults within the Detroit Parks + Recreation Department. Terra has applied what she learned as a professional triathlete and is sharing those lessons with her athletes and community- Being Bold not just in sport but in life.
           </div>
           <div><a href="https://www.flickr.com/photos/126949511@N07/18956193481" title="Terra Castro NESS by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/492/18956193481_c1c9e9dc6e_m.jpg" width="240" height="240" alt="Terra Castro NESS"></a></div>
           <div class="boxContent2">
