@@ -58,8 +58,8 @@ layout: default
                               <br> <em>Frist Multipurpose Area </em></td>
                         </tr>
                         <tr>
-                            <td>11:00 AM to 11:50 AM</td><td> <strong> Presentation: </strong> Vinnie Tortorich, “Fact and Fable in Fitness and Health”  <br> <em>Frist Multipurpose Area </em>
-                            <br><br><strong> Presentation: </strong> Dr. David Horton, "Lessons Learned from 100,000 Miles of Running"  <br> <em>Frist Multipurpose Area </em>
+                            <td>11:00 AM to 11:50 AM</td><td> 
+                            <strong> Presentation: </strong> Dr. David Horton, "Lessons Learned from 100,000 Miles of Running"  <br> <em>Frist Multipurpose Area </em>
                             </td>
                         </tr>
                         <tr>
@@ -111,8 +111,7 @@ layout: default
                             <br> <em> Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
-                          <td>10:00 AM to 10:50 AM</td><td> <strong> Presentation: </strong>Dr. Nicholas Romanov, “The Science of Running Farther, Faster, and Injury Free ”
-                            <br> <em>Frist Multipurpose Area</em></td>
+                          <td>10:00 AM to 10:50 AM</td><td> <strong> Presentation: </strong> Vinnie Tortorich, “Fact and Fable in Fitness and Health”  <br> <em>Frist Multipurpose Area </em></td>
                       </tr>
     <tr>
                           <td>11:00 AM to 11:50 AM</td><td> <strong> Panel: </strong>  “Going Further for a Greater Cause”
