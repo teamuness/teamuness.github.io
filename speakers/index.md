@@ -164,6 +164,18 @@ work.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
+            For over 20 years Meg Waldron has guided athletes from age group to elite. In her day she was a track All-American, 5th in the Mayor's Midnight Sun Marathon, and helped run the Olympic torch down the PanAmerican highway. She is a USATF certified coach and studied at the Penn Program for Mindfulness. Published in Runner's World, The Complete Book of Running for Women, and Be Iron Fit, Meg has worked with the US Olympic Development team. She’s finishing her Master’s in Sport Psychology at Temple University.
+          </div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20754095572/in/album-72157654707426096/" title="Waldronpicture.2015"><img src="https://farm1.staticflickr.com/753/20754095572_85bb473968_o.jpg" width="388" height="388" alt="Waldronpicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div class="boxContent2">
+            <h3>Meg Waldron</h3>
+            <p>Mental Conditioning Coach</p>
+          </div>
+        </article>
+      </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
               Ann Trason is a 14-time women’s champion at the Western States 100. She set
 World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (91 miles
 1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
@@ -360,18 +372,6 @@ weekend warrior to pursue their goals to the best of their abilities.
       </div>
     </div>
     <div class="row">
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-            For over 20 years Meg Waldron has guided athletes from age group to elite. In her day she was a track All-American, 5th in the Mayor's Midnight Sun Marathon, and helped run the Olympic torch down the PanAmerican highway. She is a USATF certified coach and studied at the Penn Program for Mindfulness. Published in Runner's World, The Complete Book of Running for Women, and Be Iron Fit, Meg has worked with the US Olympic Development team. She’s finishing her Master’s in Sport Psychology at Temple University.
-          </div>
-          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/20754095572/in/album-72157654707426096/" title="Waldronpicture.2015"><img src="https://farm1.staticflickr.com/753/20754095572_85bb473968_o.jpg" width="388" height="388" alt="Waldronpicture.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
-          <div class="boxContent2">
-            <h3>Meg Waldron</h3>
-            <p>Mental Conditioning Coach</p>
-          </div>
-        </article>
-      </div>
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
