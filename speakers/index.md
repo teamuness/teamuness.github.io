@@ -164,22 +164,6 @@ work.
       <div class="span3">
         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
-              Dr. Nicholas Romanov is a best-selling author, elite coach, and sports
-scientist, and was a competitive athlete for over thirty years. Dr. Romanov has garnered
-worldwide fame for developing the Pose Method, a revolutionary way to run using gravity as
-a leading force in human movement. He has worked with elite athletes including members of
-the Olympic teams of U.S., Great Britain, Russia, El Salvador, and Russia.  
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18927028996" title="Dr. Nicholas Romanov - NESS Pic (FB) by annabroome, on Flickr"><img src="https://c1.staticflickr.com/1/508/18927028996_44c42dca06_m.jpg" width="240" height="240" alt="Dr. Nicholas Romanov - NESS Pic (FB)"></a></div>
-          <div class="boxContent2">
-            <h3>Dr. Nicholas Romanov</h3>
-            <p>Founder of the Pose Method &amp; Coach</p>
-          </div>
-        </article>
-      </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
               Ann Trason is a 14-time women’s champion at the Western States 100. She set
 World Records at the 50-mile (5:40:18 in 1991), 100K (7:00:47, 1995), 12-Hour (91 miles
 1312 yards, 1991) and 100-mile (13:47:42, 1991) distances. Ann was race director of the
