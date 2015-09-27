@@ -82,7 +82,7 @@ layout: default
                         <tr>
                             <td>4:30 PM to 5:20 PM</td><td> <strong> Clinic: </strong> Dr. Julie Angel, “Introduction to Parkour and Art of Movement”
                               <br> <em>Frist Multipurpose Area </em><br><br>
-                            <strong> Presentation: </strong> Travis Macy, “The Ultra Mindset”
+                            <strong> Presentation: </strong> Travis Macy, “The Ultra Mindset: An Endurance Champion's Core Principles for Success in Business, Sports, and Life”
                             <br> <em>Frist Multipurpose Area </em><br></td>
                         </tr>
                         <tr>
