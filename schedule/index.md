@@ -77,7 +77,7 @@ layout: default
                         </tr>
                         <tr>
                             <td>3:30 PM to 4:20 PM</td><td> <strong> Panel: </strong> “Learning How to Push Further and Reduce Injury” <br>
-                              Shane Eversfield, Terra Castro, Jason Fitzgerald, Ann Trason, Andy Wegman <br> <em>Frist Multipurpose Area</em></td>
+                              Shane Eversfield, Terra Castro, Jason Fitzgerald, Ann Trason, Andy Wegman <br> Moderator: Dr. Michael Sachs <br> <em>Frist Multipurpose Area</em></td>
                         </tr>
                         <tr>
                             <td>4:30 PM to 5:20 PM</td><td> <strong> Clinic: </strong> Dr. Julie Angel, “Introduction to Parkour and Art of Movement”
