@@ -116,7 +116,8 @@ layout: default
     <tr>
                           <td>11:00 AM to 11:50 AM</td><td> <strong> Panel: </strong>  “Going Further for a Greater Cause”
                           <br>Dennis Murphy, Cason Crane, Theresa Roden, and Nikolas Toochek
-                          <br><em>Frist Multipurpose Area</em>
+                          <br> Moderator: Dr. Rob Gilbert 
+                          <br> <em>Frist Multipurpose Area</em>
 
                           
                           
