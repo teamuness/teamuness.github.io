@@ -399,22 +399,6 @@ height="207" alt="NESS background"></a></div>
           </div>
         </article>
       </div>
-      <!--<div class="span3">
-         <article class="boxWrapper color1">
-          <div class="speaker-box-overlay">
-              Coming soon!
-          </div>
-          <div><a href="https://www.flickr.com/photos/126949511@N07/18769575678"
-title="NESS background by annabroome, on Flickr"><img
-src="https://c1.staticflickr.com/1/295/18769575678_88e21cffd9_o.png" width="945"
-height="207" alt="NESS background"></a></div>
-          <div class="boxContent2">
-            <h3>To Be Announced</h3>
-            <p>T.B.A.</p>
-          </div>
-        </article>
-      </div>
-      -->
     </div>
   </div>
 </section>
