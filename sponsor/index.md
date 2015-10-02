@@ -42,7 +42,7 @@ layout: default
 </table>
 <br>
 <br>
-        <div class="span12">
+        <div class="span8">
 <center>
             <h4 class="dark">NESS is a global dream - a vision that has grown over two years and is now becoming a reality. But it will require the effort of more than one organization. In order to make this incredible weekend possible, we are offering the opportunity to extend your brand to thousands of endurance athletes and interested persons alike in the context of promoting social good.</h4>
             <br /><br>
