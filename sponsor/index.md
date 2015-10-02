@@ -40,16 +40,16 @@ layout: default
 </td>
   </tr>
 </table>
-
+<br>
+<br>
         <div class="span8">
-
+<center>
             <h4 class="dark">NESS is a global dream - a vision that has grown over two years and is now becoming a reality. But it will require the effort of more than one organization. In order to make this incredible weekend possible, we are offering the opportunity to extend your brand to thousands of endurance athletes and interested persons alike in the context of promoting social good.</h4>
-            <br /><br />
+            <br /><br>
             <p class="dark">We are flexible with any arrangements, including the naming of keynotes or other sessions, and
             sponsorship of particular budgetary items.</p>
-
             <p class="dark">In addition to the incredible ROI, your contribution is tax-deductible from the IRS. Please <a href="mailto:ness@teamu.org">contact us</a> for more information.</p>
-
+</center>
             
 
 
