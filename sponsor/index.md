@@ -13,6 +13,15 @@ layout: default
             <br />
         </div>
         <div class="span8">
+        
+<div class="floated_img">
+    <img src="http://vignette2.wikia.nocookie.net/voiceacting/images/9/98/Red_Bull_Logo.png" alt="Red Bull">
+    <p>Red Bull</p>
+</div>
+<div class="floated_img">
+    <img src="http://i1095.photobucket.com/albums/i470/jebenun/xero-logo_zpsb8spwr1k.gif" alt="Xero Shoes">
+    <p>Xero Shoes</p>
+</div>
 
             <h4 class="dark">NESS is a global dream - a vision that has grown over two years and is now becoming a reality. But it will require the effort of more than one organization. In order to make this incredible weekend possible, we are offering the opportunity to extend your brand to thousands of endurance athletes and interested persons alike in the context of promoting social good.</h4>
             <br /><br />
