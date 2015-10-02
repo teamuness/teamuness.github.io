@@ -399,8 +399,8 @@ height="207" alt="NESS background"></a></div>
           </div>
         </article>
       </div>
-      <div class="span3">
-        <article class="boxWrapper color1">
+      <!--<div class="span3">
+         <article class="boxWrapper color1">
           <div class="speaker-box-overlay">
               Coming soon!
           </div>
@@ -414,6 +414,7 @@ height="207" alt="NESS background"></a></div>
           </div>
         </article>
       </div>
+      -->
     </div>
   </div>
 </section>
