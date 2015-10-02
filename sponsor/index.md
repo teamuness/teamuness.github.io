@@ -8,14 +8,14 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="span12">
+        <center> <h2>We are grateful to the below partners and sponsors</h2>
+       <br>
+      <h4> Click on a logo to learn more! </h4> </center>
         <div class="row-fluid">
         <div class="span2">
             <br />
         </div>
         
-       <center> <h2>We are grateful to the below partners and sponsors</h2>
-       <br>
-      <h4> Click on a logo to learn more! </h4> </center>
         <table style="width:100%">
   <tr>
     <td><a href="http://www.redbull.com" target="_blank">
