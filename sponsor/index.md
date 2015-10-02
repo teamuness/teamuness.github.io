@@ -23,7 +23,7 @@ layout: default
 <img border="0" alt="Xero Shoes" src="http://i1095.photobucket.com/albums/i470/jebenun/Xero%20Shoes_zpscvzpkhit.jpg" width="200px"></a> 
 </td>
 <td><a href="http://www.healthwarrior.com" target="_blank">
-<img border="0" alt="Health Warrior" src="http://i1095.photobucket.com/albums/i470/jebenun/Health%20Warrior_zpsreclhrfn.jpg" width="200px"></a> 
+<img border="0" alt="Health Warrior" src="http://i1095.photobucket.com/albums/i470/jebenun/Health%20Warrior_zpsxks9v3nv.jpg" width="200px"></a> 
 </td>
   </tr>
    <tr>
@@ -34,7 +34,7 @@ layout: default
 <img border="0" alt="RunGoo" src="http://i1095.photobucket.com/albums/i470/jebenun/RunGoo_zps0a7rlp4s.png" width="200px"></a> 
 </td>
 <td><a href="http://www.oilthemachine.com" target="_blank">
-<img border="0" alt="Oil The Machine" src="http://i1095.photobucket.com/albums/i470/jebenun/Oil%20the%20Machine_zps6zswyafn.jpg" width="200px"></a> 
+<img border="0" alt="Oil The Machine" src="http://i1095.photobucket.com/albums/i470/jebenun/Oil%20the%20Machine_zpswgqco9wr.jpg" width="200px"></a> 
 </td>
   </tr>
 </table>
