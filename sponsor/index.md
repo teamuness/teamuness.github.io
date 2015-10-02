@@ -9,14 +9,7 @@ layout: default
       <div class="row">
         <div class="span12">
         <div class="row-fluid">
-        <div class="floated_img">
-    <img src="http://vignette2.wikia.nocookie.net/voiceacting/images/9/98/Red_Bull_Logo.png" alt="Red Bull">
-    <p>Red Bull</p>
-</div>
-<div class="floated_img">
-    <img src="http://i1095.photobucket.com/albums/i470/jebenun/xero-logo_zpsb8spwr1k.gif" alt="Xero Shoes">
-    <p>Xero Shoes</p>
-</div>
+
 
         <div class="span2">
             <br />
