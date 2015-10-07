@@ -384,6 +384,18 @@ weekend warrior to pursue their goals to the best of their abilities.
           </div>
         </article>
       </div>
+      <div class="span3">
+        <article class="boxWrapper color1">
+          <div class="speaker-box-overlay">
+              Dr. Pat Cuntrera is a Naturopathic Medical Doctor with a number of years of experience as a powerlifter and kettlebell athlete. He is also a third degree black belt with background in Hapkido, Goju-Ryu, Tae, Kwon Do and Tai Chi.
+          </div>
+          <div><a data-flickr-embed="false"  href="https://www.flickr.com/photos/126949511@N07/21999713286/in/album-72157654707426096/" title="Pat Cuntrera - NESS Pic"><img src="https://farm6.staticflickr.com/5696/21999713286_f1e1836b91_o.jpg" width="1480" height="1481" alt="Pat Cuntrera - NESS Pic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div>
+          <div class="boxContent2">
+            <h3>Dr. Pat Cuntrera</h3>
+            <p>Naturopathic Medical Doctor</p>
+          </div>
+        </article>
+      </div>
     </div>
   </div>
 </section>
