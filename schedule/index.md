@@ -34,7 +34,8 @@ layout: default
                     <h2>World-class clinics.</h2>
                     <h2>Top-notch networking opportunities.</h2>
                     <br>
-                    <h4> Head <a href="http://elevateendurance.org/schedule2014">here</a> to check out the last year's schedule. Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a></h4>
+                    <h3><strong><a href="http://elevateendurance.org/2015_agenda.pdf">Click here</a> for this year's up to date 2015 program agenda.</strong></h3>
+                    <p>Head <a href="http://elevateendurance.org/schedule2014">here</a> to check out the last year's schedule. Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a></p>
                 </center>
 <br>
                     <br>
@@ -42,7 +43,7 @@ layout: default
                   <center><h2>Saturday, October 10, 2015</h2></center>
                     <table width="100%">
                         <tr>
-                            <td>7:00 AM to 9:00 AM</td><td> <strong> Registration </strong> <br>Location: Table in Frist MPR Lobby </td>
+                            <td>8:00 AM and on</td><td> <strong> Registration </strong> <br>Location: Table in Frist MPR Lobby </td>
                         </tr>
 
                         <tr>
@@ -144,10 +145,6 @@ layout: default
                           <td>5:10 PM to 6:00 PM</td><td> <strong> Presentation: </strong>Shane Eversfield, “Transforming your Relationship with Suffering”
  <br> <em>Frist Multipurpose Area</em></td>
                       </tr>
-                      <tr>
-                          <td>6:00 PM to 7:00 PM</td><td> <strong> Closing Special: </strong>  Dance/Music/Improv Performance <br><em>Location: T.B.A.</em></td>
-                      </tr>
-                      
                     </table>
 
 
