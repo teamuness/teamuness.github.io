@@ -34,7 +34,7 @@ layout: default
                     <h2>World-class clinics.</h2>
                     <h2>Top-notch networking opportunities.</h2>
                     <br>
-                    <h3><strong><a href="http://elevateendurance.org/2015_agenda.pdf">Click here</a> for this year's up to date 2015 program agenda.</strong></h3>
+                    <h3><strong><a href="http://teamu.org/2015_agenda.pdf" target="_blank">Click here</a> for this year's up to date 2015 program agenda.</strong></h3>
                     <p>Head <a href="http://elevateendurance.org/schedule2014">here</a> to check out the last year's schedule. Questions? <a href="mailto:ness@teamu.org">Shoot us an email.</a></p>
                 </center>
 <br>
