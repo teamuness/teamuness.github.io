@@ -18,8 +18,8 @@ layout: default
         
         <table style="width:100%">
   <tr>
-    <td><a href="http://www.redbull.com" target="_blank">
-<img border="0" alt="Red Bull" src="http://i1095.photobucket.com/albums/i470/jebenun/Red%20Bull_zps7bizwryk.png" width="200px"></a> 
+    <td><a href="http://www.USL.TV" target="_blank">
+<img border="0" alt="USL.TV" src="http://i1095.photobucket.com/albums/i470/jebenun/USLTV_zpswcec6xhu.png" width="200px"></a> 
 </td>
     <td><a href="http://www.xeroshoes.com" target="_blank">
 <img border="0" alt="Xero Shoes" src="http://i1095.photobucket.com/albums/i470/jebenun/Xero%20Shoes_zpscvzpkhit.jpg" width="200px"></a> 
@@ -29,9 +29,6 @@ layout: default
 </td>
   </tr>
    <tr>
-    <td><a href="http://www.USL.TV" target="_blank">
-<img border="0" alt="USL.TV" src="http://i1095.photobucket.com/albums/i470/jebenun/USLTV_zpswcec6xhu.png" width="200px"></a> 
-</td>
     <td><a href="http://footkinetics.com" target="_blank">
 <img border="0" alt="RunGoo" src="http://i1095.photobucket.com/albums/i470/jebenun/RunGoo_zps0a7rlp4s.png" width="200px"></a> 
 </td>
