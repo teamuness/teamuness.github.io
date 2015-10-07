@@ -128,7 +128,7 @@ layout: default
                             <br>Start Location: T.B.A. </em></td>
                       </tr>
                       <tr>
-                          <td>1:00 PM to 1:50 PM</td><td> <strong> Roundtable Discussion: </strong> “The Psychic Side: Untold Stories from Endurance Sports”<br> Speakers & Audience <br> Moderator: Dr. Rob Gilbert <br><em>Frist Multipurpose Area</em></td>
+                          <td>1:00 PM to 1:50 PM</td><td> <strong> Roundtable Discussion: </strong> “The Psychic Side: Untold Stories from Endurance Sports”<br> Speakers & Audience <br> Facilitators: Dr. Rob Gilbert and Dr. Pat Cuntrera <br><em>Frist Multipurpose Area</em></td>
                       </tr>
                       <tr>
                           <td>2:00 PM to 2:50 PM</td><td> <strong> Presentation: </strong> Michael Vitez, “The Road Back” <br><em>Frist Multipurpose Area</em></td>
